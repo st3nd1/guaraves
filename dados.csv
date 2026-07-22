@@ -1,0 +1,2000 @@
+,ID_Venda,Data,Produto,Categoria,Canal,Regional,Campanha,Qtd,Preco_Unitario,Desconto_%,Faturamento
+0,V-0001,2025-03-27,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Sudeste,São João,57.0,3.5,0.01,197.505
+1,V-0002,2025-10-07,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,13.0,4.2,0.15,46.41
+2,V-0003,2025-06-26,Biscoito Cream Cracker,Mercearia,Atacarejo,Nordeste,Verão,11.0,4.2,0.07,42.966
+3,V-0004,2025-06-27,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Sudeste,Black Friday,21.0,3.5,0.06,69.08999999999999
+4,V-0005,2025-12-04,Tapioca Hidratada 1kg,Mercearia,Supermercado,Sudeste,Verão,57.0,8.9,0.11,451.497
+5,V-0006,2025-08-16,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Norte,Nenhuma,19.0,5.8,0.14,94.772
+6,V-0007,2025-05-17,Tapioca Hidratada 1kg,Mercearia,Supermercado,Norte,Nenhuma,59.0,8.9,0.04,504.096
+7,V-0008,2025-09-24,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Nordeste,Verão,18.0,3.5,0.11,56.07
+8,V-0009,2025-07-11,Queijo Coalho Tradicional,Laticínios,Supermercado,Sudeste,Nenhuma,40.0,32.5,0.15,1105.0
+9,V-0010,2025-07-18,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Norte,São João,59.0,8.9,0.07,488.34299999999996
+10,V-0011,2025-07-16,Biscoito Cream Cracker,Mercearia,Supermercado,Norte,São João,15.0,4.2,0.04,60.48
+11,V-0012,2025-11-09,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Sudeste,Nenhuma,11.0,21.9,0.1,216.80999999999997
+12,V-0013,2025-05-23,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,Verão,49.0,8.9,0.01,431.73900000000003
+13,V-0014,2025-11-06,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Nordeste,Nenhuma,23.0,21.9,0.14,433.18199999999996
+14,V-0015,2025-02-05,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Nordeste,Nenhuma,43.0,5.8,0.11,221.966
+15,V-0016,2025-11-19,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Nordeste,Nenhuma,52.0,32.5,0.06,1588.6
+16,V-0017,2025-07-22,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Sudeste,Nenhuma,37.0,3.5,0.01,128.205
+17,V-0018,2025-02-17,Biscoito Cream Cracker,Mercearia,Atacarejo,Nordeste,São João,5.0,4.2,0.02,20.58
+18,V-0019,2025-07-18,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Sudeste,São João,47.0,3.5,0.06,154.63
+19,V-0020,2025-04-26,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Sudeste,São João,3.0,4.2,0.12,11.088000000000001
+20,V-0021,2025-11-24,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Sudeste,Black Friday,19.0,21.9,0.0,416.09999999999997
+21,V-0022,2025-10-10,Queijo Coalho Tradicional,Laticínios,Supermercado,Norte,Nenhuma,25.0,32.5,0.02,796.25
+22,V-0023,2025-09-07,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Norte,Nenhuma,32.0,21.9,0.01,693.7919999999999
+23,V-0024,2025-03-04,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Norte,São João,32.0,3.5,0.0,112.0
+24,V-0025,2025-02-03,Queijo Coalho Tradicional,Laticínios,Atacarejo,Sudeste,São João,55.0,32.5,0.08,1644.5
+25,V-0026,2025-05-22,Tapioca Hidratada 1kg,Mercearia,Supermercado,Sudeste,Verão,18.0,8.9,0.07,148.98600000000002
+26,V-0027,2025-10-03,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,Verão,53.0,8.9,0.11,419.81300000000005
+27,V-0028,2025-12-02,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Nordeste,São João,25.0,8.9,0.05,211.375
+28,V-0029,2025-03-28,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Norte,Nenhuma,5.0,4.2,0.14,18.06
+29,V-0030,2025-03-31,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,São João,35.0,5.8,0.0,203.0
+30,V-0031,2025-03-26,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Nordeste,Nenhuma,27.0,21.9,0.03,573.5609999999999
+31,V-0032,2025-01-09,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Norte,Nenhuma,56.0,3.5,0.03,190.12
+32,V-0033,2025-04-22,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Sudeste,São João,37.0,21.9,0.13,704.961
+33,V-0034,2025-03-09,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Norte,Black Friday,17.0,21.9,0.02,364.8539999999999
+34,V-0035,2025-10-18,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Norte,São João,24.0,21.9,0.09,478.29599999999994
+35,V-0036,2025-06-21,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Sudeste,Nenhuma,29.0,5.8,0.11,149.69799999999998
+36,V-0037,2025-06-29,Queijo Coalho Tradicional,Laticínios,Atacarejo,Sudeste,Nenhuma,19.0,32.5,0.03,598.975
+37,V-0038,2025-05-22,Queijo Coalho Tradicional,Laticínios,Supermercado,Norte,Black Friday,51.0,32.5,0.01,1640.925
+38,V-0039,2025-12-16,Queijo Coalho Tradicional,Laticínios,Supermercado,Norte,Black Friday,3.0,32.5,0.0,97.5
+39,V-0040,2025-01-07,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Norte,Nenhuma,9.0,3.5,0.08,28.98
+40,V-0041,2025-06-05,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,São João,54.0,8.9,0.07,446.95799999999997
+41,V-0042,2025-05-25,Biscoito Cream Cracker,Mercearia,Atacarejo,Nordeste,Nenhuma,46.0,4.2,0.05,183.54000000000002
+42,V-0043,2025-05-01,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Norte,Nenhuma,1.0,32.5,0.13,28.275
+43,V-0044,2025-04-01,Queijo Coalho Tradicional,Laticínios,Atacarejo,Sudeste,Nenhuma,8.0,32.5,0.11,231.4
+44,V-0045,2025-11-11,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Sudeste,Nenhuma,51.0,4.2,0.11,190.638
+45,V-0046,2025-09-23,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Nordeste,Nenhuma,17.0,5.8,0.11,87.75399999999999
+46,V-0047,2025-05-18,Tapioca Hidratada 1kg,Mercearia,Supermercado,Sudeste,Verão,37.0,8.9,0.07,306.24899999999997
+47,V-0048,2025-01-08,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,São João,50.0,32.5,0.09,1478.75
+48,V-0049,2025-03-24,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Nordeste,Nenhuma,14.0,21.9,0.04,294.33599999999996
+49,V-0050,2025-03-26,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Norte,Black Friday,55.0,8.9,0.07,455.23499999999996
+50,V-0051,2025-05-07,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Nordeste,São João,27.0,5.8,0.14,134.676
+51,V-0052,2025-12-12,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Norte,São João,26.0,32.5,0.08,777.4
+52,V-0053,2025-12-29,Tapioca Hidratada 1kg,Mercearia,Supermercado,Sudeste,Verão,39.0,8.9,0.08,319.33200000000005
+53,V-0054,2025-01-19,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Nordeste,Nenhuma,38.0,21.9,0.06,782.2679999999999
+54,V-0055,2025-02-21,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Norte,Nenhuma,25.0,8.9,0.13,193.575
+55,V-0056,2025-11-23,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Sudeste,Verão,34.0,3.5,0.13,103.53
+56,V-0057,2025-10-05,Tapioca Hidratada 1kg,Mercearia,Supermercado,Norte,Nenhuma,42.0,8.9,0.01,370.062
+57,V-0058,2025-01-25,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Nordeste,Black Friday,58.0,21.9,0.01,1257.4979999999998
+58,V-0059,2025-01-15,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Sudeste,São João,34.0,5.8,0.09,179.452
+59,V-0060,2025-04-04,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Sudeste,Verão,58.0,5.8,0.09,306.12399999999997
+60,V-0061,2025-07-22,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Nordeste,Verão,40.0,5.8,0.11,206.48
+61,V-0062,2025-03-12,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Nordeste,Black Friday,28.0,4.2,0.1,105.84
+62,V-0063,2025-06-28,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Nordeste,Nenhuma,41.0,21.9,0.11,799.131
+63,V-0064,2025-09-27,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Sudeste,São João,25.0,21.9,0.11,487.27500000000003
+64,V-0065,2025-09-25,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Nordeste,Verão,46.0,21.9,0.05,957.03
+65,V-0066,2025-08-10,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Sudeste,Verão,1.0,4.2,0.07,3.9059999999999997
+66,V-0067,2025-12-09,Biscoito Cream Cracker,Mercearia,Supermercado,Sudeste,São João,18.0,4.2,0.14,65.016
+67,V-0068,2025-05-22,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Sudeste,Verão,20.0,5.8,0.13,100.92
+68,V-0069,2025-12-17,Queijo Coalho Tradicional,Laticínios,Supermercado,Sudeste,São João,46.0,32.5,0.15,1270.75
+69,V-0070,2025-02-15,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Nordeste,São João,51.0,5.8,0.06,278.052
+70,V-0071,2025-05-29,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,58.0,4.2,0.15,207.06
+71,V-0072,2025-06-07,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Norte,Nenhuma,24.0,5.8,0.11,123.88799999999999
+72,V-0073,2025-04-30,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,São João,8.0,4.2,0.06,31.584
+73,V-0074,2025-04-14,Biscoito Cream Cracker,Mercearia,Supermercado,Nordeste,São João,60.0,4.2,0.04,241.92
+74,V-0075,2025-03-19,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Nordeste,Nenhuma,20.0,21.9,0.08,402.96000000000004
+75,V-0076,2025-06-09,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Norte,Verão,44.0,3.5,0.02,150.92
+76,V-0077,2025-12-12,Biscoito Cream Cracker,Mercearia,Supermercado,Sudeste,Nenhuma,28.0,4.2,0.0,117.60000000000001
+77,V-0078,2025-04-10,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,Verão,47.0,8.9,0.07,389.019
+78,V-0079,2025-11-01,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Sudeste,Nenhuma,52.0,3.5,0.11,161.98
+79,V-0080,2025-03-08,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Norte,Nenhuma,26.0,21.9,0.05,540.93
+80,V-0081,2025-06-14,Tapioca Hidratada 1kg,Mercearia,Supermercado,Nordeste,São João,7.0,8.9,0.15,52.955000000000005
+81,V-0082,2025-02-11,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Sudeste,São João,30.0,5.8,0.13,151.38
+82,V-0083,2025-03-12,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Sudeste,Verão,32.0,32.5,0.01,1029.6
+83,V-0084,2025-11-11,Tapioca Hidratada 1kg,Mercearia,Supermercado,Sudeste,Nenhuma,33.0,8.9,0.08,270.204
+84,V-0085,2025-08-11,Biscoito Cream Cracker,Mercearia,Supermercado,Sudeste,Verão,49.0,4.2,0.05,195.51
+85,V-0086,2025-09-16,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Nordeste,Black Friday,12.0,21.9,0.07,244.40399999999994
+86,V-0087,2025-12-16,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Nordeste,Verão,38.0,5.8,0.1,198.36
+87,V-0088,2025-04-20,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Norte,Nenhuma,44.0,5.8,0.11,227.128
+88,V-0089,2025-05-09,Tapioca Hidratada 1kg,Mercearia,Supermercado,Sudeste,Nenhuma,14.0,8.9,0.07,115.878
+89,V-0090,2025-12-30,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Sudeste,Black Friday,50.0,8.9,0.03,431.65
+90,V-0091,2025-02-20,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Norte,Black Friday,43.0,5.8,0.02,244.412
+91,V-0092,2025-10-18,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,São João,36.0,32.5,0.09,1064.7
+92,V-0093,2025-03-27,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Norte,Verão,52.0,4.2,0.1,196.56
+93,V-0094,2025-01-03,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Sudeste,Black Friday,46.0,21.9,0.09,916.734
+94,V-0095,2025-12-29,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Sudeste,São João,55.0,4.2,0.11,205.59
+95,V-0096,2025-12-22,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,São João,15.0,8.9,0.06,125.49
+96,V-0097,2025-09-25,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Sudeste,São João,42.0,5.8,0.03,236.292
+97,V-0098,2025-12-28,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Sudeste,Nenhuma,51.0,8.9,0.11,403.97100000000006
+98,V-0099,2025-12-26,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,Nenhuma,47.0,32.5,0.0,1527.5
+99,V-0100,2025-08-23,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Sudeste,Verão,40.0,21.9,0.04,840.9599999999999
+100,V-0101,2025-02-20,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Sudeste,Verão,2.0,21.9,0.13,38.105999999999995
+101,V-0102,2025-03-14,Tapioca Hidratada 1kg,Mercearia,Supermercado,Nordeste,Nenhuma,18.0,8.9,0.08,147.38400000000001
+102,V-0103,2025-09-10,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,Black Friday,20.0,4.2,0.15,71.39999999999999
+103,V-0104,2025-08-30,Biscoito Cream Cracker,Mercearia,Supermercado,Sudeste,São João,7.0,4.2,0.09,26.754
+104,V-0105,2025-01-28,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Sudeste,São João,52.0,5.8,0.03,292.55199999999996
+105,V-0106,2025-01-08,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Norte,Verão,17.0,4.2,0.02,69.97200000000001
+106,V-0107,2025-09-01,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Nordeste,Nenhuma,36.0,5.8,0.13,181.65599999999998
+107,V-0108,2025-03-30,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Sudeste,São João,38.0,32.5,0.13,1074.45
+108,V-0109,2025-03-05,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Nordeste,Nenhuma,5.0,5.8,0.01,28.71
+109,V-0110,2025-09-04,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Sudeste,Nenhuma,28.0,4.2,0.07,109.368
+110,V-0111,2025-09-12,Queijo Coalho Tradicional,Laticínios,Supermercado,Norte,Nenhuma,60.0,32.5,0.14,1677.0
+111,V-0112,2025-05-05,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,São João,51.0,32.5,0.1,1491.75
+112,V-0113,2025-10-27,Queijo Coalho Tradicional,Laticínios,Supermercado,Sudeste,São João,43.0,32.5,0.04,1341.6
+113,V-0114,2025-02-15,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Nordeste,Nenhuma,27.0,32.5,0.07,816.0749999999999
+114,V-0115,2025-01-30,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Nordeste,São João,10.0,5.8,0.12,51.04
+115,V-0116,2025-01-19,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,Black Friday,39.0,32.5,0.03,1229.475
+116,V-0117,2025-03-20,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,29.0,8.9,0.03,250.35700000000003
+117,V-0118,2025-11-13,Biscoito Cream Cracker,Mercearia,Supermercado,Sudeste,Nenhuma,35.0,4.2,0.06,138.17999999999998
+118,V-0119,2025-04-23,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,São João,3.0,4.2,0.05,11.97
+119,V-0120,2025-10-15,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Nordeste,Nenhuma,57.0,8.9,0.12,446.42400000000004
+120,V-0121,2025-05-30,Tapioca Hidratada 1kg,Mercearia,Supermercado,Norte,Black Friday,34.0,8.9,0.02,296.548
+121,V-0122,2025-04-11,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Nordeste,Black Friday,4.0,21.9,0.07,81.46799999999999
+122,V-0123,2025-02-08,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Sudeste,Nenhuma,28.0,5.8,0.03,157.528
+123,V-0124,2025-07-22,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Nordeste,Nenhuma,32.0,21.9,0.06,658.752
+124,V-0125,2025-01-05,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Sudeste,Black Friday,51.0,8.9,0.15,385.815
+125,V-0126,2025-07-29,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Sudeste,Nenhuma,31.0,32.5,0.08,926.9000000000001
+126,V-0127,2025-01-06,Queijo Coalho Tradicional,Laticínios,Supermercado,Norte,Nenhuma,19.0,32.5,0.12,543.4
+127,V-0128,2025-04-21,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Nordeste,Nenhuma,32.0,3.5,0.11,99.68
+128,V-0129,2025-01-16,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,Nenhuma,46.0,4.2,0.14,166.15200000000002
+129,V-0130,2025-09-08,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,Nenhuma,52.0,4.2,0.06,205.296
+130,V-0131,2025-07-17,Biscoito Cream Cracker,Mercearia,Supermercado,Nordeste,Black Friday,22.0,4.2,0.08,85.00800000000001
+131,V-0132,2025-04-15,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Sudeste,Nenhuma,26.0,3.5,0.08,83.72
+132,V-0133,2025-07-17,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Nenhuma,21.0,5.8,0.13,105.966
+133,V-0134,2025-12-10,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Sudeste,Nenhuma,54.0,8.9,0.14,413.31600000000003
+134,V-0135,2025-07-02,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Sudeste,São João,55.0,5.8,0.05,303.05
+135,V-0136,2025-07-12,Biscoito Cream Cracker,Mercearia,Supermercado,Sudeste,São João,56.0,4.2,0.05,223.44
+136,V-0137,2025-12-24,Biscoito Cream Cracker,Mercearia,Supermercado,Sudeste,Nenhuma,32.0,4.2,0.11,119.61600000000001
+137,V-0138,2025-03-08,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Nordeste,Nenhuma,12.0,21.9,0.12,231.26399999999995
+138,V-0139,2025-10-05,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Sudeste,Black Friday,52.0,3.5,0.15,154.7
+139,V-0140,2025-03-03,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Sudeste,Verão,39.0,21.9,0.08,785.7719999999999
+140,V-0141,2025-11-23,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Nordeste,São João,45.0,4.2,0.08,173.88
+141,V-0142,2025-01-03,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,Black Friday,57.0,8.9,0.08,466.716
+142,V-0143,2025-10-22,Queijo Coalho Tradicional,Laticínios,Atacarejo,Sudeste,Nenhuma,4.0,32.5,0.07,120.89999999999999
+143,V-0144,2025-01-17,Biscoito Cream Cracker,Mercearia,Supermercado,Norte,Nenhuma,33.0,4.2,0.02,135.828
+144,V-0145,2025-04-10,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Norte,Nenhuma,1.0,3.5,0.09,3.185
+145,V-0146,2025-10-06,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Norte,Verão,19.0,3.5,0.07,61.845
+146,V-0147,2025-09-14,Tapioca Hidratada 1kg,Mercearia,Supermercado,Sudeste,Nenhuma,25.0,8.9,0.01,220.275
+147,V-0148,2025-11-28,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,Nenhuma,50.0,8.9,0.13,387.15
+148,V-0149,2025-02-06,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,Black Friday,1.0,8.9,0.08,8.188
+149,V-0150,2025-07-04,Queijo Coalho Tradicional,Laticínios,Atacarejo,Sudeste,Nenhuma,24.0,32.5,0.0,780.0
+150,V-0151,2025-06-20,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,Nenhuma,16.0,32.5,0.06,488.79999999999995
+151,V-0152,2025-03-16,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Nordeste,Verão,9.0,5.8,0.11,46.458
+152,V-0153,2025-01-09,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Nordeste,Verão,57.0,21.9,0.01,1235.817
+153,V-0154,2025-11-02,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Nordeste,Nenhuma,42.0,21.9,0.02,901.4039999999999
+154,V-0155,2025-07-21,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Sudeste,Verão,40.0,21.9,0.12,770.88
+155,V-0156,2025-12-09,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,Black Friday,4.0,8.9,0.12,31.328000000000003
+156,V-0157,2025-12-23,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,Nenhuma,38.0,8.9,0.12,297.616
+157,V-0158,2025-11-24,Queijo Coalho Tradicional,Laticínios,Atacarejo,Sudeste,Nenhuma,39.0,32.5,0.14,1090.05
+158,V-0159,2025-11-04,Queijo Coalho Tradicional,Laticínios,Supermercado,Norte,Nenhuma,5.0,32.5,0.14,139.75
+159,V-0160,2025-11-01,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Sudeste,Verão,43.0,5.8,0.02,244.412
+160,V-0161,2025-02-26,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Sudeste,São João,60.0,4.2,0.06,236.88
+161,V-0162,2025-09-10,Queijo Coalho Tradicional,Laticínios,Supermercado,Sudeste,Nenhuma,31.0,32.5,0.11,896.6750000000001
+162,V-0163,2025-08-22,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,Verão,17.0,32.5,0.11,491.725
+163,V-0164,2025-11-30,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Nordeste,Black Friday,43.0,3.5,0.06,141.47
+164,V-0165,2025-11-14,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Nordeste,Nenhuma,33.0,5.8,0.13,166.518
+165,V-0166,2025-01-14,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Sudeste,Nenhuma,13.0,21.9,0.15,241.99499999999998
+166,V-0167,2025-05-13,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Norte,Verão,57.0,8.9,0.01,502.22700000000003
+167,V-0168,2025-06-13,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Norte,Nenhuma,19.0,4.2,0.01,79.002
+168,V-0169,2025-11-16,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Nordeste,Black Friday,15.0,21.9,0.15,279.22499999999997
+169,V-0170,2025-05-12,Tapioca Hidratada 1kg,Mercearia,Supermercado,Norte,Verão,29.0,8.9,0.13,224.54700000000003
+170,V-0171,2025-06-18,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,Nenhuma,50.0,32.5,0.11,1446.25
+171,V-0172,2025-05-10,Tapioca Hidratada 1kg,Mercearia,Supermercado,Sudeste,São João,45.0,8.9,0.06,376.46999999999997
+172,V-0173,2025-05-21,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Sudeste,Nenhuma,1.0,3.5,0.14,3.01
+173,V-0174,2025-12-09,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,Nenhuma,32.0,32.5,0.11,925.6
+174,V-0175,2025-10-12,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Norte,Black Friday,9.0,3.5,0.04,30.24
+175,V-0176,2025-11-11,Biscoito Cream Cracker,Mercearia,Atacarejo,Sudeste,São João,35.0,4.2,0.05,139.65
+176,V-0177,2025-03-21,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Sudeste,Nenhuma,30.0,3.5,0.14,90.3
+177,V-0178,2025-04-02,Queijo Coalho Tradicional,Laticínios,Supermercado,Sudeste,Nenhuma,4.0,32.5,0.13,113.1
+178,V-0179,2025-02-01,Biscoito Cream Cracker,Mercearia,Supermercado,Norte,Verão,1.0,4.2,0.09,3.8220000000000005
+179,V-0180,2025-12-18,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Sudeste,Black Friday,18.0,3.5,0.03,61.11
+180,V-0181,2025-03-24,Biscoito Cream Cracker,Mercearia,Supermercado,Sudeste,Black Friday,11.0,4.2,0.02,45.276
+181,V-0182,2025-07-19,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Norte,São João,3.0,5.8,0.09,15.834
+182,V-0183,2025-04-07,Biscoito Cream Cracker,Mercearia,Supermercado,Sudeste,Verão,21.0,4.2,0.14,75.852
+183,V-0184,2025-06-24,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Nordeste,Verão,43.0,4.2,0.05,171.57
+184,V-0185,2025-10-30,Biscoito Cream Cracker,Mercearia,Supermercado,Nordeste,Nenhuma,15.0,4.2,0.08,57.96
+185,V-0186,2025-01-05,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,São João,19.0,8.9,0.06,158.95399999999998
+186,V-0187,2025-10-08,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Nordeste,Verão,54.0,21.9,0.0,1182.6
+187,V-0188,2025-08-28,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Norte,Verão,52.0,21.9,0.11,1013.5319999999999
+188,V-0189,2025-04-03,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Nordeste,Nenhuma,2.0,21.9,0.15,37.23
+189,V-0190,2025-11-06,Biscoito Cream Cracker,Mercearia,Supermercado,Sudeste,Nenhuma,29.0,4.2,0.04,116.92800000000001
+190,V-0191,2025-01-15,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Norte,São João,35.0,21.9,0.14,659.1899999999999
+191,V-0192,2025-09-03,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Sudeste,Nenhuma,45.0,3.5,0.13,137.025
+192,V-0193,2025-08-25,Queijo Coalho Tradicional,Laticínios,Supermercado,Sudeste,Nenhuma,31.0,32.5,0.04,967.1999999999999
+193,V-0194,2025-09-24,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,São João,7.0,4.2,0.13,25.578000000000003
+194,V-0195,2025-06-27,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Sudeste,Nenhuma,2.0,21.9,0.06,41.172
+195,V-0196,2025-03-15,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Sudeste,São João,3.0,32.5,0.12,85.8
+196,V-0197,2025-03-29,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Norte,Nenhuma,46.0,3.5,0.04,154.56
+197,V-0198,2025-08-02,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Norte,Nenhuma,59.0,21.9,0.11,1149.9689999999998
+198,V-0199,2025-02-13,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Sudeste,Nenhuma,11.0,32.5,0.02,350.34999999999997
+199,V-0200,2025-10-20,Biscoito Cream Cracker,Mercearia,Supermercado,Norte,Nenhuma,11.0,4.2,0.08,42.504000000000005
+200,V-0201,2025-09-27,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Sudeste,Black Friday,41.0,3.5,0.05,136.325
+201,V-0202,2025-02-13,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Verão,3.0,5.8,0.14,14.963999999999999
+202,V-0203,2025-06-20,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Sudeste,Nenhuma,17.0,32.5,0.07,513.8249999999999
+203,V-0204,2025-10-20,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Nenhuma,42.0,5.8,0.04,233.856
+204,V-0205,2025-05-26,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Sudeste,Verão,49.0,5.8,0.14,244.41199999999998
+205,V-0206,2025-03-31,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,Nenhuma,37.0,32.5,0.01,1190.475
+206,V-0207,2025-06-03,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,Verão,17.0,32.5,0.08,508.3
+207,V-0208,2025-12-11,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Nordeste,Black Friday,33.0,21.9,0.1,650.43
+208,V-0209,2025-08-17,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Sudeste,Black Friday,20.0,8.9,0.03,172.66
+209,V-0210,2025-05-02,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Nordeste,Nenhuma,21.0,32.5,0.01,675.675
+210,V-0211,2025-02-25,Tapioca Hidratada 1kg,Mercearia,Supermercado,Norte,Nenhuma,55.0,8.9,0.08,450.34000000000003
+211,V-0212,2025-07-31,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Nordeste,Nenhuma,53.0,21.9,0.15,986.5949999999998
+212,V-0213,2025-08-12,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Nordeste,Nenhuma,27.0,21.9,0.13,514.4309999999999
+213,V-0214,2025-09-05,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Nordeste,São João,3.0,4.2,0.06,11.844000000000001
+214,V-0215,2025-09-05,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Norte,São João,7.0,3.5,0.08,22.540000000000003
+215,V-0216,2025-11-09,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,51.0,8.9,0.04,435.744
+216,V-0217,2025-05-28,Tapioca Hidratada 1kg,Mercearia,Supermercado,Nordeste,Black Friday,13.0,8.9,0.11,102.973
+217,V-0218,2025-08-15,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Nordeste,Black Friday,46.0,4.2,0.07,179.67600000000002
+218,V-0219,2025-07-03,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Norte,São João,49.0,3.5,0.03,166.355
+219,V-0220,2025-08-28,Queijo Coalho Tradicional,Laticínios,Atacarejo,Sudeste,Black Friday,20.0,32.5,0.1,585.0
+220,V-0221,2025-10-18,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Nordeste,Black Friday,4.0,32.5,0.08,119.60000000000001
+221,V-0222,2025-05-05,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Nordeste,Black Friday,8.0,21.9,0.05,166.43999999999997
+222,V-0223,2025-04-02,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Norte,Nenhuma,36.0,3.5,0.01,124.74
+223,V-0224,2025-07-22,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Norte,Nenhuma,35.0,3.5,0.1,110.25
+224,V-0225,2025-09-10,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Nordeste,Nenhuma,41.0,32.5,0.03,1292.5249999999999
+225,V-0226,2025-09-16,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Sudeste,Verão,32.0,8.9,0.04,273.408
+226,V-0227,2025-03-11,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Nordeste,Nenhuma,4.0,21.9,0.12,77.088
+227,V-0228,2025-10-22,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Nordeste,Verão,10.0,32.5,0.09,295.75
+228,V-0229,2025-07-13,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,Nenhuma,15.0,32.5,0.07,453.37499999999994
+229,V-0230,2025-01-20,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Nordeste,Verão,25.0,8.9,0.11,198.025
+230,V-0231,2025-12-03,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Nordeste,Black Friday,18.0,5.8,0.06,98.13599999999998
+231,V-0232,2025-04-25,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Norte,Nenhuma,56.0,3.5,0.03,190.12
+232,V-0233,2025-01-22,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Nordeste,Black Friday,3.0,21.9,0.03,63.728999999999985
+233,V-0234,2025-02-11,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,Nenhuma,47.0,32.5,0.0,1527.5
+234,V-0235,2025-05-22,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,3.0,4.2,0.09,11.466000000000001
+235,V-0236,2025-11-14,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Nordeste,Nenhuma,43.0,3.5,0.07,139.965
+236,V-0237,2025-07-28,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Norte,Black Friday,31.0,8.9,0.02,270.382
+237,V-0238,2025-01-16,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,Verão,53.0,8.9,0.07,438.68100000000004
+238,V-0239,2025-07-16,Queijo Coalho Tradicional,Laticínios,Supermercado,Norte,Nenhuma,19.0,32.5,0.06,580.4499999999999
+239,V-0240,2025-03-03,Queijo Coalho Tradicional,Laticínios,Supermercado,Sudeste,Nenhuma,7.0,32.5,0.01,225.225
+240,V-0241,2025-07-10,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Norte,Nenhuma,53.0,21.9,0.02,1137.4859999999999
+241,V-0242,2025-09-02,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Nordeste,Black Friday,43.0,5.8,0.1,224.46
+242,V-0243,2025-07-04,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Norte,Nenhuma,25.0,5.8,0.08,133.4
+243,V-0244,2025-03-02,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Nordeste,Verão,43.0,3.5,0.08,138.46
+244,V-0245,2025-03-15,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Sudeste,Nenhuma,31.0,21.9,0.04,651.7439999999999
+245,V-0246,2025-02-25,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Nordeste,Nenhuma,43.0,5.8,0.15,211.99
+246,V-0247,2025-05-06,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,Black Friday,21.0,4.2,0.15,74.97
+247,V-0248,2025-04-15,Biscoito Cream Cracker,Mercearia,Supermercado,Norte,Nenhuma,13.0,4.2,0.02,53.508
+248,V-0249,2025-06-07,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Sudeste,Verão,19.0,21.9,0.15,353.68499999999995
+249,V-0250,2025-09-01,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Nordeste,Black Friday,14.0,5.8,0.11,72.268
+250,V-0251,2025-04-09,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Sudeste,Verão,34.0,21.9,0.11,662.694
+251,V-0252,2025-08-24,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Norte,Black Friday,16.0,21.9,0.08,322.368
+252,V-0253,2025-09-19,Queijo Coalho Tradicional,Laticínios,Supermercado,Sudeste,Black Friday,9.0,32.5,0.15,248.625
+253,V-0254,2025-06-03,Queijo Coalho Tradicional,Laticínios,Supermercado,Sudeste,Nenhuma,26.0,32.5,0.05,802.75
+254,V-0255,2025-03-19,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Norte,Verão,55.0,5.8,0.01,315.81
+255,V-0256,2025-02-14,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Nordeste,Nenhuma,38.0,5.8,0.15,187.34
+256,V-0257,2025-11-04,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Sudeste,Black Friday,40.0,5.8,0.0,232.0
+257,V-0258,2025-12-17,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,Verão,40.0,8.9,0.0,356.0
+258,V-0259,2025-08-10,Queijo Coalho Tradicional,Laticínios,Supermercado,Sudeste,Verão,29.0,32.5,0.1,848.25
+259,V-0260,2025-12-11,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,Nenhuma,21.0,4.2,0.14,75.852
+260,V-0261,2025-10-03,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Nenhuma,32.0,5.8,0.07,172.60799999999998
+261,V-0262,2025-07-04,Tapioca Hidratada 1kg,Mercearia,Supermercado,Sudeste,Black Friday,50.0,8.9,0.0,445.0
+262,V-0263,2025-10-27,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,São João,4.0,5.8,0.03,22.503999999999998
+263,V-0264,2025-11-25,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Sudeste,Black Friday,60.0,32.5,0.03,1891.5
+264,V-0265,2025-07-19,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Sudeste,Black Friday,18.0,8.9,0.12,140.97600000000003
+265,V-0266,2025-03-09,Tapioca Hidratada 1kg,Mercearia,Supermercado,Norte,Nenhuma,25.0,8.9,0.01,220.275
+266,V-0267,2025-05-09,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Sudeste,Nenhuma,45.0,32.5,0.07,1360.125
+267,V-0268,2025-02-25,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Nordeste,Black Friday,19.0,3.5,0.02,65.17
+268,V-0269,2025-05-24,Queijo Coalho Tradicional,Laticínios,Supermercado,Sudeste,Nenhuma,19.0,32.5,0.11,549.575
+269,V-0270,2025-02-08,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Sudeste,Black Friday,38.0,3.5,0.14,114.38
+270,V-0271,2025-05-01,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Sudeste,São João,2.0,5.8,0.08,10.672
+271,V-0272,2025-12-08,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Sudeste,Black Friday,59.0,4.2,0.06,232.932
+272,V-0273,2025-09-13,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Sudeste,Nenhuma,15.0,5.8,0.1,78.3
+273,V-0274,2025-08-27,Queijo Coalho Tradicional,Laticínios,Atacarejo,Sudeste,Nenhuma,14.0,32.5,0.05,432.25
+274,V-0275,2025-10-06,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Norte,Verão,14.0,3.5,0.13,42.63
+275,V-0276,2025-12-13,Biscoito Cream Cracker,Mercearia,Atacarejo,Nordeste,São João,26.0,4.2,0.13,95.004
+276,V-0277,2025-11-13,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Sudeste,Verão,39.0,5.8,0.1,203.57999999999998
+277,V-0278,2025-10-05,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Sudeste,Verão,29.0,3.5,0.11,90.33500000000001
+278,V-0279,2025-10-15,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,29.0,4.2,0.15,103.53
+279,V-0280,2025-06-05,Queijo Coalho Tradicional,Laticínios,Atacarejo,Nordeste,São João,34.0,32.5,0.15,939.25
+280,V-0281,2025-01-26,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Sudeste,Nenhuma,2.0,21.9,0.08,40.296
+281,V-0282,2025-03-17,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Nordeste,Nenhuma,45.0,5.8,0.0,261.0
+282,V-0283,2025-12-09,Tapioca Hidratada 1kg,Mercearia,Supermercado,Norte,Nenhuma,10.0,8.9,0.0,89.0
+283,V-0284,2025-12-14,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Sudeste,Nenhuma,5.0,21.9,0.08,100.74000000000001
+284,V-0285,2025-10-09,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Sudeste,Black Friday,2.0,4.2,0.01,8.316
+285,V-0286,2025-07-29,Biscoito Cream Cracker,Mercearia,Supermercado,Sudeste,São João,30.0,4.2,0.07,117.17999999999999
+286,V-0287,2025-06-14,Biscoito Cream Cracker,Mercearia,Supermercado,Nordeste,Verão,26.0,4.2,0.09,99.372
+287,V-0288,2025-09-15,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Sudeste,Nenhuma,16.0,21.9,0.11,311.856
+288,V-0289,2025-10-31,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Norte,Black Friday,60.0,8.9,0.11,475.26
+289,V-0290,2025-03-19,Biscoito Cream Cracker,Mercearia,Supermercado,Nordeste,Nenhuma,20.0,4.2,0.02,82.32
+290,V-0291,2025-03-27,Biscoito Cream Cracker,Mercearia,Supermercado,Nordeste,Nenhuma,43.0,4.2,0.04,173.37599999999998
+291,V-0292,2025-06-02,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Sudeste,Black Friday,11.0,5.8,0.05,60.60999999999999
+292,V-0293,2025-05-02,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Norte,Black Friday,13.0,4.2,0.07,50.778
+293,V-0294,2025-06-29,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Nordeste,Nenhuma,23.0,21.9,0.01,498.663
+294,V-0295,2025-08-23,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Norte,Nenhuma,46.0,5.8,0.14,229.448
+295,V-0296,2025-02-02,Tapioca Hidratada 1kg,Mercearia,Supermercado,Norte,São João,15.0,8.9,0.14,114.81
+296,V-0297,2025-11-10,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Sudeste,Verão,33.0,8.9,0.04,281.952
+297,V-0298,2025-11-23,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Norte,Nenhuma,4.0,8.9,0.13,30.972
+298,V-0299,2025-10-08,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Sudeste,Nenhuma,36.0,32.5,0.03,1134.8999999999999
+299,V-0300,2025-09-14,Queijo Coalho Tradicional,Laticínios,Atacarejo,Sudeste,Verão,1.0,32.5,0.03,31.525
+300,V-0301,2025-08-01,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Nordeste,São João,18.0,5.8,0.15,88.74
+301,V-0302,2025-11-01,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Norte,Black Friday,16.0,5.8,0.07,86.30399999999999
+302,V-0303,2025-11-06,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,São João,22.0,5.8,0.0,127.6
+303,V-0304,2025-04-11,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Sudeste,São João,20.0,4.2,0.08,77.28
+304,V-0305,2025-03-15,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Nenhuma,12.0,5.8,0.1,62.63999999999999
+305,V-0306,2025-05-17,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Norte,Nenhuma,20.0,8.9,0.1,160.20000000000002
+306,V-0307,2025-08-05,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,32.0,8.9,0.06,267.712
+307,V-0308,2025-09-29,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Nordeste,São João,36.0,3.5,0.05,119.69999999999999
+308,V-0309,2025-11-19,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Norte,Nenhuma,1.0,8.9,0.02,8.722
+309,V-0310,2025-12-13,Biscoito Cream Cracker,Mercearia,Supermercado,Nordeste,Nenhuma,38.0,4.2,0.02,156.408
+310,V-0311,2025-02-17,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Black Friday,7.0,5.8,0.04,38.976
+311,V-0312,2025-05-29,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Norte,São João,21.0,21.9,0.1,413.90999999999997
+312,V-0313,2025-02-09,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Sudeste,São João,17.0,3.5,0.03,57.714999999999996
+313,V-0314,2025-06-14,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Nordeste,Verão,32.0,21.9,0.01,693.7919999999999
+314,V-0315,2025-11-16,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Norte,São João,26.0,3.5,0.06,85.53999999999999
+315,V-0316,2025-09-20,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Nordeste,Nenhuma,49.0,21.9,0.08,987.252
+316,V-0317,2025-11-19,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Sudeste,Verão,46.0,3.5,0.06,151.34
+317,V-0318,2025-01-05,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Nordeste,Nenhuma,34.0,21.9,0.07,692.4779999999998
+318,V-0319,2025-12-18,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Sudeste,Verão,32.0,3.5,0.01,110.88
+319,V-0320,2025-02-13,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Sudeste,São João,24.0,32.5,0.09,709.8000000000001
+320,V-0321,2025-03-12,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Norte,Verão,25.0,5.8,0.02,142.1
+321,V-0322,2025-01-08,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Nordeste,Black Friday,51.0,21.9,0.14,960.5339999999999
+322,V-0323,2025-11-16,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Norte,Nenhuma,6.0,3.5,0.13,18.27
+323,V-0324,2025-09-24,Biscoito Cream Cracker,Mercearia,Supermercado,Norte,Nenhuma,5.0,4.2,0.09,19.11
+324,V-0325,2025-07-01,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Sudeste,Black Friday,53.0,5.8,0.07,285.88199999999995
+325,V-0326,2025-01-31,Tapioca Hidratada 1kg,Mercearia,Supermercado,Nordeste,Nenhuma,14.0,8.9,0.08,114.63200000000002
+326,V-0327,2025-10-11,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Nordeste,Verão,34.0,8.9,0.12,266.288
+327,V-0328,2025-07-16,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Nordeste,Verão,22.0,8.9,0.12,172.304
+328,V-0329,2025-05-08,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Nordeste,São João,18.0,32.5,0.15,497.25
+329,V-0330,2025-03-12,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Sudeste,Nenhuma,40.0,8.9,0.07,331.08
+330,V-0331,2025-07-01,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Sudeste,Black Friday,40.0,32.5,0.05,1235.0
+331,V-0332,2025-04-24,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Nordeste,Black Friday,24.0,3.5,0.1,75.60000000000001
+332,V-0333,2025-06-25,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Nenhuma,4.0,5.8,0.04,22.272
+333,V-0334,2025-04-02,Tapioca Hidratada 1kg,Mercearia,Supermercado,Sudeste,Nenhuma,41.0,8.9,0.04,350.30400000000003
+334,V-0335,2025-03-26,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Norte,Black Friday,41.0,8.9,0.04,350.30400000000003
+335,V-0336,2025-08-20,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Sudeste,Nenhuma,44.0,21.9,0.08,886.512
+336,V-0337,2025-02-06,Biscoito Cream Cracker,Mercearia,Supermercado,Sudeste,Black Friday,42.0,4.2,0.12,155.232
+337,V-0338,2025-12-28,Queijo Coalho Tradicional,Laticínios,Atacarejo,Sudeste,Nenhuma,13.0,32.5,0.1,380.25
+338,V-0339,2025-04-09,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,São João,52.0,32.5,0.1,1521.0
+339,V-0340,2025-05-10,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,Nenhuma,58.0,4.2,0.05,231.42000000000002
+340,V-0341,2025-06-04,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,Black Friday,25.0,4.2,0.09,95.55
+341,V-0342,2025-10-20,Biscoito Cream Cracker,Mercearia,Atacarejo,Nordeste,Nenhuma,12.0,4.2,0.04,48.384
+342,V-0343,2025-10-09,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,Nenhuma,54.0,8.9,0.05,456.57
+343,V-0344,2025-03-21,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Nordeste,Black Friday,41.0,8.9,0.04,350.30400000000003
+344,V-0345,2025-03-15,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Nordeste,Verão,47.0,32.5,0.08,1405.3
+345,V-0346,2025-03-04,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Sudeste,São João,23.0,5.8,0.1,120.06
+346,V-0347,2025-11-07,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,57.0,3.5,0.09,181.54500000000002
+347,V-0348,2025-06-28,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Nordeste,Verão,52.0,5.8,0.06,283.50399999999996
+348,V-0349,2025-01-16,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Norte,Black Friday,48.0,3.5,0.03,162.96
+349,V-0350,2025-07-04,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Sudeste,São João,39.0,32.5,0.14,1090.05
+350,V-0351,2025-05-03,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Sudeste,Nenhuma,2.0,3.5,0.13,6.09
+351,V-0352,2025-07-04,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Nordeste,Nenhuma,22.0,5.8,0.13,111.012
+352,V-0353,2025-06-28,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Sudeste,Nenhuma,43.0,5.8,0.04,239.424
+353,V-0354,2025-12-03,Tapioca Hidratada 1kg,Mercearia,Supermercado,Sudeste,Nenhuma,44.0,8.9,0.08,360.27200000000005
+354,V-0355,2025-04-07,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,Nenhuma,59.0,32.5,0.05,1821.625
+355,V-0356,2025-09-23,Queijo Coalho Tradicional,Laticínios,Supermercado,Norte,São João,52.0,32.5,0.15,1436.5
+356,V-0357,2025-11-10,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Norte,Nenhuma,4.0,3.5,0.04,13.44
+357,V-0358,2025-07-30,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Sudeste,Nenhuma,8.0,21.9,0.06,164.688
+358,V-0359,2025-08-21,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Nordeste,Verão,31.0,5.8,0.05,170.80999999999997
+359,V-0360,2025-10-12,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Norte,São João,1.0,3.5,0.12,3.08
+360,V-0361,2025-09-04,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Nenhuma,34.0,5.8,0.02,193.25599999999997
+361,V-0362,2025-08-18,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Sudeste,São João,60.0,3.5,0.08,193.20000000000002
+362,V-0363,2025-07-20,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Norte,São João,31.0,32.5,0.15,856.375
+363,V-0364,2025-01-23,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Sudeste,Black Friday,39.0,4.2,0.05,155.61
+364,V-0365,2025-10-31,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Norte,Nenhuma,57.0,5.8,0.07,307.45799999999997
+365,V-0366,2025-06-03,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,Black Friday,28.0,4.2,0.09,107.016
+366,V-0367,2025-05-30,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Nordeste,Nenhuma,9.0,21.9,0.05,187.24499999999998
+367,V-0368,2025-01-05,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,São João,12.0,4.2,0.06,47.376000000000005
+368,V-0369,2025-09-08,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Norte,Nenhuma,60.0,3.5,0.09,191.1
+369,V-0370,2025-06-15,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,Nenhuma,29.0,32.5,0.1,848.25
+370,V-0371,2025-10-22,Queijo Coalho Tradicional,Laticínios,Supermercado,Norte,Nenhuma,55.0,32.5,0.11,1590.875
+371,V-0372,2025-06-21,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Norte,Nenhuma,9.0,21.9,0.0,197.1
+372,V-0373,2025-12-28,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,Verão,19.0,32.5,0.0,617.5
+373,V-0374,2025-06-12,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Nordeste,São João,16.0,4.2,0.08,61.824000000000005
+374,V-0375,2025-06-21,Tapioca Hidratada 1kg,Mercearia,Supermercado,Sudeste,São João,50.0,8.9,0.02,436.09999999999997
+375,V-0376,2025-01-06,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Norte,Nenhuma,37.0,3.5,0.03,125.615
+376,V-0377,2025-12-06,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Norte,São João,41.0,5.8,0.15,202.12999999999997
+377,V-0378,2025-06-28,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Nordeste,Verão,1.0,3.5,0.14,3.01
+378,V-0379,2025-11-03,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Nordeste,São João,32.0,3.5,0.07,104.16
+379,V-0380,2025-10-28,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Norte,Verão,42.0,3.5,0.01,145.53
+380,V-0381,2025-04-25,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Norte,São João,27.0,8.9,0.11,213.86700000000002
+381,V-0382,2025-07-21,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Sudeste,Black Friday,32.0,3.5,0.05,106.39999999999999
+382,V-0383,2025-02-03,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Nordeste,Verão,59.0,21.9,0.12,1137.048
+383,V-0384,2025-05-29,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Norte,São João,21.0,21.9,0.07,427.70699999999994
+384,V-0385,2025-05-29,Queijo Coalho Tradicional,Laticínios,Atacarejo,Sudeste,Black Friday,13.0,32.5,0.15,359.125
+385,V-0386,2025-12-04,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Norte,Nenhuma,33.0,3.5,0.13,100.485
+386,V-0387,2025-06-29,Biscoito Cream Cracker,Mercearia,Supermercado,Nordeste,Verão,58.0,4.2,0.15,207.06
+387,V-0388,2025-08-19,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Sudeste,Verão,30.0,21.9,0.01,650.43
+388,V-0389,2025-06-04,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,48.0,8.9,0.01,422.92800000000005
+389,V-0390,2025-08-18,Queijo Coalho Tradicional,Laticínios,Atacarejo,Sudeste,Nenhuma,53.0,32.5,0.04,1653.6
+390,V-0391,2025-10-17,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Sudeste,Verão,13.0,32.5,0.03,409.825
+391,V-0392,2025-09-01,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Norte,São João,41.0,5.8,0.03,230.66599999999997
+392,V-0393,2025-11-26,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Sudeste,Verão,29.0,21.9,0.12,558.8879999999999
+393,V-0394,2025-01-02,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,São João,12.0,32.5,0.06,366.59999999999997
+394,V-0395,2025-07-27,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Norte,Nenhuma,29.0,21.9,0.13,552.5369999999999
+395,V-0396,2025-12-25,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Sudeste,São João,44.0,32.5,0.04,1372.8
+396,V-0397,2025-09-07,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,Verão,40.0,8.9,0.14,306.15999999999997
+397,V-0398,2025-01-08,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Nordeste,Verão,1.0,3.5,0.11,3.115
+398,V-0399,2025-04-23,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Norte,São João,18.0,5.8,0.0,104.39999999999999
+399,V-0400,2025-07-02,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Sudeste,Nenhuma,30.0,8.9,0.04,256.32
+400,V-0401,2025-12-02,Queijo Coalho Tradicional,Laticínios,Supermercado,Sudeste,Black Friday,42.0,32.5,0.11,1214.85
+401,V-0402,2025-06-19,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Nordeste,Verão,10.0,3.5,0.13,30.45
+402,V-0403,2025-01-31,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Sudeste,São João,33.0,21.9,0.12,635.976
+403,V-0404,2025-01-13,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Sudeste,Black Friday,9.0,21.9,0.09,179.361
+404,V-0405,2025-07-19,Biscoito Cream Cracker,Mercearia,Atacarejo,Nordeste,Verão,20.0,4.2,0.11,74.76
+405,V-0406,2025-07-07,Biscoito Cream Cracker,Mercearia,Supermercado,Nordeste,São João,10.0,4.2,0.1,37.800000000000004
+406,V-0407,2025-03-26,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,Verão,16.0,8.9,0.06,133.856
+407,V-0408,2025-03-02,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Norte,Verão,48.0,5.8,0.11,247.77599999999998
+408,V-0409,2025-05-22,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Norte,Nenhuma,16.0,32.5,0.05,494.0
+409,V-0410,2025-11-19,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Nordeste,Verão,27.0,5.8,0.13,136.242
+410,V-0411,2025-04-16,Queijo Coalho Tradicional,Laticínios,Atacarejo,Sudeste,São João,25.0,32.5,0.09,739.375
+411,V-0412,2025-02-28,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Sudeste,Black Friday,49.0,8.9,0.08,401.21200000000005
+412,V-0413,2025-10-28,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Norte,São João,9.0,3.5,0.02,30.87
+413,V-0414,2025-10-29,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Sudeste,Verão,28.0,5.8,0.08,149.40800000000002
+414,V-0415,2025-01-06,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Norte,Nenhuma,53.0,3.5,0.14,159.53
+415,V-0416,2025-09-01,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Norte,Black Friday,54.0,4.2,0.15,192.78
+416,V-0417,2025-08-04,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,Black Friday,27.0,32.5,0.07,816.0749999999999
+417,V-0418,2025-03-22,Biscoito Cream Cracker,Mercearia,Supermercado,Norte,Black Friday,19.0,4.2,0.13,69.426
+418,V-0419,2025-05-21,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Sudeste,São João,30.0,5.8,0.09,158.34
+419,V-0420,2025-06-15,Biscoito Cream Cracker,Mercearia,Atacarejo,Nordeste,Black Friday,42.0,4.2,0.15,149.94
+420,V-0421,2025-08-17,Biscoito Cream Cracker,Mercearia,Atacarejo,Sudeste,Verão,46.0,4.2,0.04,185.472
+421,V-0422,2025-12-13,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,São João,18.0,32.5,0.12,514.8
+422,V-0423,2025-08-08,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Sudeste,Nenhuma,48.0,21.9,0.01,1040.6879999999999
+423,V-0424,2025-04-01,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,Verão,7.0,32.5,0.05,216.125
+424,V-0425,2025-05-05,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,Nenhuma,43.0,8.9,0.09,348.257
+425,V-0426,2025-02-02,Queijo Coalho Tradicional,Laticínios,Atacarejo,Sudeste,Nenhuma,8.0,32.5,0.0,260.0
+426,V-0427,2025-01-06,Queijo Coalho Tradicional,Laticínios,Supermercado,Norte,Nenhuma,16.0,32.5,0.0,520.0
+427,V-0428,2025-05-14,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Nordeste,Verão,6.0,5.8,0.02,34.104
+428,V-0429,2025-11-03,Biscoito Cream Cracker,Mercearia,Atacarejo,Nordeste,Black Friday,12.0,4.2,0.0,50.400000000000006
+429,V-0430,2025-02-13,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,São João,50.0,32.5,0.01,1608.75
+430,V-0431,2025-03-09,Queijo Coalho Tradicional,Laticínios,Supermercado,Norte,Verão,55.0,32.5,0.13,1555.125
+431,V-0432,2025-04-15,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,21.0,4.2,0.11,78.498
+432,V-0433,2025-05-28,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Norte,Nenhuma,6.0,3.5,0.0,21.0
+433,V-0434,2025-10-14,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,Nenhuma,15.0,32.5,0.15,414.375
+434,V-0435,2025-04-20,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Nordeste,Black Friday,23.0,3.5,0.06,75.67
+435,V-0436,2025-07-15,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Sudeste,Verão,7.0,5.8,0.0,40.6
+436,V-0437,2025-09-25,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Sudeste,Nenhuma,22.0,5.8,0.11,113.564
+437,V-0438,2025-12-25,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Nordeste,Nenhuma,58.0,8.9,0.13,449.09400000000005
+438,V-0439,2025-03-13,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Norte,Nenhuma,39.0,32.5,0.05,1204.125
+439,V-0440,2025-08-12,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,Nenhuma,51.0,8.9,0.09,413.04900000000004
+440,V-0441,2025-07-12,Queijo Coalho Tradicional,Laticínios,Atacarejo,Sudeste,Verão,50.0,32.5,0.11,1446.25
+441,V-0442,2025-09-24,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Norte,Verão,14.0,21.9,0.05,291.27
+442,V-0443,2025-04-04,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,Black Friday,58.0,32.5,0.0,1885.0
+443,V-0444,2025-07-07,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Norte,Black Friday,5.0,21.9,0.1,98.55
+444,V-0445,2025-06-29,Queijo Coalho Tradicional,Laticínios,Supermercado,Norte,Nenhuma,22.0,32.5,0.04,686.4
+445,V-0446,2025-08-23,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,Nenhuma,11.0,32.5,0.1,321.75
+446,V-0447,2025-05-30,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Nordeste,Nenhuma,9.0,21.9,0.05,187.24499999999998
+447,V-0448,2025-11-06,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Nordeste,Nenhuma,41.0,21.9,0.14,772.194
+448,V-0449,2025-02-25,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Norte,Nenhuma,44.0,8.9,0.15,332.86
+449,V-0450,2025-08-03,Biscoito Cream Cracker,Mercearia,Atacarejo,Sudeste,Verão,29.0,4.2,0.01,120.58200000000001
+450,V-0451,2025-05-12,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Sudeste,Black Friday,24.0,21.9,0.04,504.5759999999999
+451,V-0452,2025-01-21,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Sudeste,Black Friday,21.0,5.8,0.08,112.056
+452,V-0453,2025-06-12,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Nenhuma,36.0,5.8,0.07,194.18399999999997
+453,V-0454,2025-02-16,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Nordeste,São João,26.0,5.8,0.02,147.784
+454,V-0455,2025-02-13,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Nordeste,Black Friday,38.0,8.9,0.06,317.90799999999996
+455,V-0456,2025-07-17,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Nordeste,Nenhuma,9.0,5.8,0.01,51.678
+456,V-0457,2025-09-19,Queijo Coalho Tradicional,Laticínios,Supermercado,Norte,São João,50.0,32.5,0.14,1397.5
+457,V-0458,2025-03-01,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Nordeste,Verão,29.0,8.9,0.03,250.35700000000003
+458,V-0459,2025-01-12,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Nordeste,Verão,59.0,5.8,0.09,311.402
+459,V-0460,2025-01-04,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Sudeste,Black Friday,17.0,5.8,0.11,87.75399999999999
+460,V-0461,2025-06-21,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Sudeste,Nenhuma,13.0,8.9,0.15,98.345
+461,V-0462,2025-06-20,Tapioca Hidratada 1kg,Mercearia,Supermercado,Nordeste,Black Friday,38.0,8.9,0.1,304.38
+462,V-0463,2025-09-21,Biscoito Cream Cracker,Mercearia,Supermercado,Nordeste,Black Friday,40.0,4.2,0.04,161.28
+463,V-0464,2025-05-18,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Sudeste,Black Friday,49.0,5.8,0.0,284.2
+464,V-0465,2025-06-30,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,Verão,37.0,4.2,0.0,155.4
+465,V-0466,2025-09-17,Biscoito Cream Cracker,Mercearia,Supermercado,Sudeste,Nenhuma,21.0,4.2,0.0,88.2
+466,V-0467,2025-05-05,Queijo Coalho Tradicional,Laticínios,Atacarejo,Sudeste,Nenhuma,20.0,32.5,0.05,617.5
+467,V-0468,2025-03-17,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Sudeste,Nenhuma,34.0,21.9,0.02,729.7079999999999
+468,V-0469,2025-07-17,Biscoito Cream Cracker,Mercearia,Supermercado,Nordeste,Black Friday,49.0,4.2,0.11,183.162
+469,V-0470,2025-04-02,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Norte,Verão,17.0,5.8,0.1,88.74
+470,V-0471,2025-04-21,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Sudeste,Verão,59.0,5.8,0.08,314.824
+471,V-0472,2025-06-22,Tapioca Hidratada 1kg,Mercearia,Supermercado,Sudeste,Verão,56.0,8.9,0.11,443.576
+472,V-0473,2025-08-19,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Norte,Nenhuma,54.0,5.8,0.13,272.484
+473,V-0474,2025-08-28,Biscoito Cream Cracker,Mercearia,Supermercado,Norte,Nenhuma,28.0,4.2,0.04,112.896
+474,V-0475,2025-05-08,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Nenhuma,49.0,5.8,0.02,278.51599999999996
+475,V-0476,2025-09-02,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Sudeste,Black Friday,28.0,21.9,0.12,539.616
+476,V-0477,2025-11-08,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Norte,Black Friday,11.0,3.5,0.06,36.19
+477,V-0478,2025-12-27,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Verão,18.0,5.8,0.11,92.916
+478,V-0479,2025-04-30,Tapioca Hidratada 1kg,Mercearia,Supermercado,Nordeste,Black Friday,27.0,8.9,0.06,225.882
+479,V-0480,2025-11-09,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Sudeste,São João,6.0,21.9,0.05,124.82999999999997
+480,V-0481,2025-01-21,Queijo Coalho Tradicional,Laticínios,Atacarejo,Nordeste,Nenhuma,21.0,32.5,0.0,682.5
+481,V-0482,2025-10-17,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Verão,19.0,5.8,0.03,106.894
+482,V-0483,2025-06-02,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Norte,Nenhuma,33.0,21.9,0.0,722.6999999999999
+483,V-0484,2025-12-05,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,38.0,3.5,0.07,123.69
+484,V-0485,2025-10-13,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Nordeste,São João,49.0,21.9,0.08,987.252
+485,V-0486,2025-04-25,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,São João,1.0,8.9,0.12,7.832000000000001
+486,V-0487,2025-09-04,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Sudeste,Nenhuma,36.0,3.5,0.05,119.69999999999999
+487,V-0488,2025-08-27,Biscoito Cream Cracker,Mercearia,Supermercado,Norte,Black Friday,7.0,4.2,0.03,28.518
+488,V-0489,2025-11-22,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,São João,46.0,5.8,0.09,242.788
+489,V-0490,2025-07-07,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Norte,Verão,17.0,8.9,0.0,151.3
+490,V-0491,2025-10-10,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Nordeste,Nenhuma,21.0,5.8,0.14,104.74799999999999
+491,V-0492,2025-01-25,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Norte,São João,42.0,8.9,0.01,370.062
+492,V-0493,2025-10-22,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Nordeste,Black Friday,33.0,21.9,0.06,679.3379999999999
+493,V-0494,2025-09-18,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,Verão,11.0,4.2,0.03,44.814
+494,V-0495,2025-06-19,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Norte,Nenhuma,22.0,3.5,0.12,67.76
+495,V-0496,2025-05-29,Biscoito Cream Cracker,Mercearia,Supermercado,Nordeste,Black Friday,13.0,4.2,0.03,52.962
+496,V-0497,2025-03-10,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Nordeste,Black Friday,53.0,5.8,0.06,288.95599999999996
+497,V-0498,2025-05-19,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Sudeste,São João,11.0,5.8,0.12,56.144
+498,V-0499,2025-07-31,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,50.0,4.2,0.12,184.8
+499,V-0500,2025-07-09,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,Nenhuma,57.0,4.2,0.12,210.672
+500,V-0501,2025-10-04,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Nordeste,Black Friday,2.0,21.9,0.03,42.486
+501,V-0502,2025-12-13,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Sudeste,Verão,14.0,21.9,0.15,260.60999999999996
+502,V-0503,2025-11-18,Biscoito Cream Cracker,Mercearia,Atacarejo,Sudeste,Black Friday,3.0,4.2,0.11,11.214000000000002
+503,V-0504,2025-11-04,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Nordeste,Verão,15.0,4.2,0.01,62.37
+504,V-0505,2025-11-23,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Sudeste,Nenhuma,45.0,21.9,0.09,896.805
+505,V-0506,2025-09-02,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,Verão,4.0,8.9,0.01,35.244
+506,V-0507,2025-08-23,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Nordeste,Nenhuma,42.0,5.8,0.11,216.804
+507,V-0508,2025-12-16,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Sudeste,Black Friday,38.0,3.5,0.09,121.03
+508,V-0509,2025-04-24,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Norte,Nenhuma,3.0,21.9,0.02,64.38599999999998
+509,V-0510,2025-03-19,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Sudeste,São João,31.0,21.9,0.12,597.432
+510,V-0511,2025-09-02,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Nordeste,Nenhuma,20.0,5.8,0.01,114.84
+511,V-0512,2025-10-13,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Nordeste,São João,44.0,5.8,0.11,227.128
+512,V-0513,2025-01-21,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Sudeste,Verão,51.0,3.5,0.02,174.93
+513,V-0514,2025-06-09,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,São João,16.0,5.8,0.12,81.664
+514,V-0515,2025-07-02,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,Nenhuma,43.0,32.5,0.1,1257.75
+515,V-0516,2025-08-15,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Norte,Nenhuma,52.0,3.5,0.02,178.35999999999999
+516,V-0517,2025-06-01,Biscoito Cream Cracker,Mercearia,Supermercado,Sudeste,São João,16.0,4.2,0.09,61.15200000000001
+517,V-0518,2025-03-27,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,Verão,1.0,32.5,0.06,30.549999999999997
+518,V-0519,2025-12-09,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Sudeste,Nenhuma,46.0,5.8,0.1,240.12
+519,V-0520,2025-08-18,Queijo Coalho Tradicional,Laticínios,Supermercado,Sudeste,Nenhuma,12.0,32.5,0.1,351.0
+520,V-0521,2025-12-09,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,São João,43.0,8.9,0.01,378.873
+521,V-0522,2025-01-27,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Sudeste,Nenhuma,26.0,3.5,0.11,80.99
+522,V-0523,2025-10-13,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Nordeste,Black Friday,28.0,32.5,0.14,782.6
+523,V-0524,2025-02-16,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Nordeste,Nenhuma,1.0,21.9,0.12,19.272
+524,V-0525,2025-10-07,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Nordeste,São João,27.0,8.9,0.05,228.285
+525,V-0526,2025-04-11,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Norte,Black Friday,39.0,3.5,0.08,125.58000000000001
+526,V-0527,2025-04-03,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Nordeste,Black Friday,31.0,32.5,0.15,856.375
+527,V-0528,2025-06-07,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Nordeste,São João,35.0,21.9,0.13,666.855
+528,V-0529,2025-06-23,Biscoito Cream Cracker,Mercearia,Atacarejo,Nordeste,Nenhuma,51.0,4.2,0.0,214.20000000000002
+529,V-0530,2025-07-17,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Norte,Nenhuma,25.0,21.9,0.0,547.5
+530,V-0531,2025-04-04,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Norte,São João,46.0,8.9,0.15,347.99
+531,V-0532,2025-04-05,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Nordeste,Nenhuma,27.0,32.5,0.13,763.425
+532,V-0533,2025-03-20,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,Black Friday,9.0,8.9,0.08,73.69200000000001
+533,V-0534,2025-12-21,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Nordeste,Verão,34.0,21.9,0.14,640.3559999999999
+534,V-0535,2025-12-18,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Nenhuma,24.0,5.8,0.11,123.88799999999999
+535,V-0536,2025-12-22,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Sudeste,São João,44.0,21.9,0.05,915.4199999999998
+536,V-0537,2025-09-14,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Sudeste,Verão,40.0,3.5,0.0,140.0
+537,V-0538,2025-06-22,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Norte,São João,28.0,4.2,0.03,114.072
+538,V-0539,2025-09-05,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Nordeste,Black Friday,37.0,32.5,0.07,1118.3249999999998
+539,V-0540,2025-08-25,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Norte,Nenhuma,12.0,21.9,0.01,260.17199999999997
+540,V-0541,2025-06-12,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,28.0,4.2,0.15,99.96000000000001
+541,V-0542,2025-10-20,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Sudeste,Nenhuma,24.0,3.5,0.12,73.92
+542,V-0543,2025-09-17,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,São João,31.0,8.9,0.1,248.31000000000003
+543,V-0544,2025-01-02,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Sudeste,Nenhuma,31.0,21.9,0.08,624.588
+544,V-0545,2025-11-01,Biscoito Cream Cracker,Mercearia,Supermercado,Sudeste,Nenhuma,57.0,4.2,0.06,225.036
+545,V-0546,2025-10-28,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Sudeste,Nenhuma,34.0,21.9,0.03,722.262
+546,V-0547,2025-09-08,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Nordeste,São João,19.0,4.2,0.13,69.426
+547,V-0548,2025-09-01,Queijo Coalho Tradicional,Laticínios,Supermercado,Norte,Nenhuma,28.0,32.5,0.06,855.4
+548,V-0549,2025-03-17,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Sudeste,Nenhuma,53.0,21.9,0.07,1079.4509999999998
+549,V-0550,2025-12-24,Biscoito Cream Cracker,Mercearia,Supermercado,Nordeste,Black Friday,30.0,4.2,0.15,107.1
+550,V-0551,2025-01-21,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Norte,Nenhuma,50.0,32.5,0.05,1543.75
+551,V-0552,2025-11-09,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Norte,Nenhuma,36.0,8.9,0.09,291.564
+552,V-0553,2025-05-15,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Norte,Nenhuma,21.0,21.9,0.1,413.90999999999997
+553,V-0554,2025-09-29,Tapioca Hidratada 1kg,Mercearia,Supermercado,Sudeste,Black Friday,7.0,8.9,0.03,60.431000000000004
+554,V-0555,2025-12-02,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,Black Friday,5.0,4.2,0.01,20.79
+555,V-0556,2025-01-17,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Norte,São João,30.0,5.8,0.12,153.12
+556,V-0557,2025-06-26,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Nordeste,São João,19.0,3.5,0.07,61.845
+557,V-0558,2025-06-25,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,São João,53.0,8.9,0.15,400.94500000000005
+558,V-0559,2025-03-04,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Norte,Verão,48.0,8.9,0.15,363.12
+559,V-0560,2025-01-24,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Nordeste,São João,1.0,3.5,0.03,3.395
+560,V-0561,2025-10-21,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Nordeste,Verão,57.0,5.8,0.08,304.152
+561,V-0562,2025-09-01,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Norte,Nenhuma,52.0,32.5,0.11,1504.1
+562,V-0563,2025-08-27,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Sudeste,Black Friday,11.0,21.9,0.06,226.44599999999997
+563,V-0564,2025-06-23,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Norte,Black Friday,34.0,3.5,0.13,103.53
+564,V-0565,2025-02-09,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Norte,Black Friday,27.0,21.9,0.05,561.7349999999999
+565,V-0566,2025-02-25,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,29.0,3.5,0.09,92.36500000000001
+566,V-0567,2025-11-10,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Sudeste,Nenhuma,7.0,3.5,0.14,21.07
+567,V-0568,2025-11-26,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Nordeste,Nenhuma,32.0,3.5,0.14,96.32
+568,V-0569,2025-12-10,Tapioca Hidratada 1kg,Mercearia,Supermercado,Sudeste,Nenhuma,34.0,8.9,0.05,287.47
+569,V-0570,2025-10-21,Biscoito Cream Cracker,Mercearia,Atacarejo,Sudeste,Nenhuma,50.0,4.2,0.0,210.0
+570,V-0571,2025-06-08,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,15.0,8.9,0.1,120.15
+571,V-0572,2025-07-25,Queijo Coalho Tradicional,Laticínios,Supermercado,Sudeste,São João,25.0,32.5,0.1,731.25
+572,V-0573,2025-10-12,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Nordeste,Black Friday,33.0,3.5,0.13,100.485
+573,V-0574,2025-05-22,Tapioca Hidratada 1kg,Mercearia,Supermercado,Norte,Nenhuma,49.0,8.9,0.07,405.573
+574,V-0575,2025-12-02,Biscoito Cream Cracker,Mercearia,Atacarejo,Sudeste,Nenhuma,10.0,4.2,0.08,38.64
+575,V-0576,2025-06-22,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Sudeste,Nenhuma,40.0,21.9,0.13,762.12
+576,V-0577,2025-03-11,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Nordeste,Verão,22.0,8.9,0.06,184.052
+577,V-0578,2025-11-24,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Norte,São João,2.0,4.2,0.09,7.644000000000001
+578,V-0579,2025-08-13,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,Black Friday,27.0,8.9,0.09,218.67300000000003
+579,V-0580,2025-11-21,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Verão,36.0,5.8,0.15,177.48
+580,V-0581,2025-07-17,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Verão,52.0,5.8,0.07,280.48799999999994
+581,V-0582,2025-07-07,Biscoito Cream Cracker,Mercearia,Atacarejo,Sudeste,São João,11.0,4.2,0.03,44.814
+582,V-0583,2025-10-08,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,Black Friday,15.0,32.5,0.12,429.0
+583,V-0584,2025-04-09,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Verão,60.0,5.8,0.04,334.08
+584,V-0585,2025-11-15,Biscoito Cream Cracker,Mercearia,Atacarejo,Nordeste,Verão,27.0,4.2,0.08,104.328
+585,V-0586,2025-10-19,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Nordeste,São João,49.0,5.8,0.02,278.51599999999996
+586,V-0587,2025-06-17,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Sudeste,Verão,29.0,4.2,0.02,119.364
+587,V-0588,2025-05-06,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Sudeste,Verão,40.0,21.9,0.05,832.1999999999999
+588,V-0589,2025-11-12,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,Nenhuma,1.0,4.2,0.09,3.8220000000000005
+589,V-0590,2025-03-29,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Sudeste,São João,42.0,5.8,0.12,214.368
+590,V-0591,2025-02-06,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,48.0,3.5,0.01,166.32
+591,V-0592,2025-10-27,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Sudeste,Black Friday,12.0,21.9,0.01,260.17199999999997
+592,V-0593,2025-11-10,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Nordeste,Nenhuma,51.0,8.9,0.0,453.90000000000003
+593,V-0594,2025-04-08,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Sudeste,Verão,6.0,5.8,0.04,33.407999999999994
+594,V-0595,2025-03-05,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Sudeste,Verão,13.0,3.5,0.11,40.495
+595,V-0596,2025-05-23,Biscoito Cream Cracker,Mercearia,Atacarejo,Nordeste,Black Friday,57.0,4.2,0.03,232.218
+596,V-0597,2025-05-24,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Nordeste,Nenhuma,53.0,3.5,0.05,176.225
+597,V-0598,2025-08-27,Tapioca Hidratada 1kg,Mercearia,Supermercado,Norte,Nenhuma,60.0,8.9,0.04,512.64
+598,V-0599,2025-02-27,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Sudeste,Nenhuma,7.0,5.8,0.07,37.757999999999996
+599,V-0600,2025-12-11,Biscoito Cream Cracker,Mercearia,Atacarejo,Nordeste,Nenhuma,33.0,4.2,0.1,124.74
+600,V-0601,2025-10-10,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Norte,Black Friday,9.0,8.9,0.07,74.49300000000001
+601,V-0602,2025-06-17,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,Black Friday,22.0,8.9,0.12,172.304
+602,V-0603,2025-12-09,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,Verão,26.0,8.9,0.04,222.144
+603,V-0604,2025-03-09,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Sudeste,Nenhuma,45.0,3.5,0.03,152.775
+604,V-0605,2025-05-11,Queijo Coalho Tradicional,Laticínios,Supermercado,Norte,Nenhuma,35.0,32.5,0.15,966.875
+605,V-0606,2025-01-25,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Nordeste,Nenhuma,24.0,3.5,0.05,79.8
+606,V-0607,2025-03-24,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Norte,Nenhuma,14.0,8.9,0.02,122.108
+607,V-0608,2025-10-18,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Nenhuma,28.0,5.8,0.05,154.28
+608,V-0609,2025-03-01,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Sudeste,São João,43.0,5.8,0.14,214.484
+609,V-0610,2025-12-18,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Sudeste,Nenhuma,46.0,21.9,0.12,886.512
+610,V-0611,2025-05-19,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Nordeste,Nenhuma,23.0,5.8,0.11,118.72600000000001
+611,V-0612,2025-10-17,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Sudeste,Verão,41.0,21.9,0.14,772.194
+612,V-0613,2025-04-03,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Norte,Verão,42.0,5.8,0.02,238.72799999999998
+613,V-0614,2025-11-22,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,São João,38.0,32.5,0.15,1049.75
+614,V-0615,2025-02-20,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Norte,Black Friday,3.0,3.5,0.08,9.66
+615,V-0616,2025-10-09,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,45.0,8.9,0.09,364.455
+616,V-0617,2025-10-27,Queijo Coalho Tradicional,Laticínios,Supermercado,Sudeste,Black Friday,34.0,32.5,0.07,1027.6499999999999
+617,V-0618,2025-10-21,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Norte,São João,10.0,21.9,0.08,201.48000000000002
+618,V-0619,2025-01-17,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Norte,Nenhuma,16.0,21.9,0.0,350.4
+619,V-0620,2025-07-02,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Sudeste,São João,29.0,5.8,0.13,146.334
+620,V-0621,2025-08-27,Tapioca Hidratada 1kg,Mercearia,Supermercado,Nordeste,Nenhuma,52.0,8.9,0.15,393.38
+621,V-0622,2025-08-11,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Nordeste,São João,47.0,5.8,0.02,267.14799999999997
+622,V-0623,2025-12-03,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Sudeste,Nenhuma,16.0,4.2,0.01,66.528
+623,V-0624,2025-05-10,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Nordeste,São João,45.0,32.5,0.12,1287.0
+624,V-0625,2025-09-17,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Nordeste,Verão,54.0,3.5,0.09,171.99
+625,V-0626,2025-08-06,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Sudeste,São João,1.0,21.9,0.14,18.834
+626,V-0627,2025-01-25,Biscoito Cream Cracker,Mercearia,Supermercado,Nordeste,Nenhuma,41.0,4.2,0.1,154.98000000000002
+627,V-0628,2025-05-06,Biscoito Cream Cracker,Mercearia,Supermercado,Sudeste,Nenhuma,3.0,4.2,0.02,12.348
+628,V-0629,2025-01-04,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,Verão,12.0,4.2,0.03,48.888000000000005
+629,V-0630,2025-12-21,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,São João,59.0,8.9,0.02,514.598
+630,V-0631,2025-09-17,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Sudeste,Verão,6.0,3.5,0.11,18.69
+631,V-0632,2025-08-01,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Verão,37.0,5.8,0.05,203.86999999999998
+632,V-0633,2025-07-03,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Norte,Black Friday,30.0,21.9,0.0,657.0
+633,V-0634,2025-07-21,Queijo Coalho Tradicional,Laticínios,Supermercado,Norte,São João,40.0,32.5,0.07,1209.0
+634,V-0635,2025-12-26,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Nordeste,Nenhuma,47.0,32.5,0.08,1405.3
+635,V-0636,2025-07-27,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Norte,Nenhuma,43.0,21.9,0.02,922.8659999999999
+636,V-0637,2025-06-13,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,São João,38.0,32.5,0.05,1173.25
+637,V-0638,2025-02-14,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Norte,Black Friday,16.0,21.9,0.0,350.4
+638,V-0639,2025-03-25,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Nordeste,Nenhuma,23.0,3.5,0.03,78.085
+639,V-0640,2025-12-01,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Norte,Nenhuma,37.0,3.5,0.07,120.43499999999999
+640,V-0641,2025-07-12,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Norte,Nenhuma,9.0,4.2,0.09,34.398
+641,V-0642,2025-05-13,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,Nenhuma,21.0,4.2,0.13,76.73400000000001
+642,V-0643,2025-10-30,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Nordeste,Black Friday,42.0,21.9,0.02,901.4039999999999
+643,V-0644,2025-08-04,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Nordeste,São João,12.0,5.8,0.1,62.63999999999999
+644,V-0645,2025-04-15,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Sudeste,Black Friday,28.0,21.9,0.07,570.276
+645,V-0646,2025-12-27,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Sudeste,Verão,38.0,3.5,0.11,118.37
+646,V-0647,2025-09-20,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Norte,Verão,10.0,3.5,0.04,33.6
+647,V-0648,2025-01-25,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Nordeste,São João,20.0,21.9,0.07,407.34
+648,V-0649,2025-12-18,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,São João,52.0,8.9,0.06,435.032
+649,V-0650,2025-11-19,Queijo Coalho Tradicional,Laticínios,Supermercado,Sudeste,Nenhuma,39.0,32.5,0.07,1178.7749999999999
+650,V-0651,2025-01-29,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Nordeste,Black Friday,10.0,8.9,0.13,77.42999999999999
+651,V-0652,2025-05-21,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Sudeste,Nenhuma,8.0,4.2,0.07,31.247999999999998
+652,V-0653,2025-05-06,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Norte,Nenhuma,56.0,32.5,0.11,1619.8
+653,V-0654,2025-09-22,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Norte,Nenhuma,57.0,3.5,0.05,189.52499999999998
+654,V-0655,2025-02-20,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,Verão,49.0,8.9,0.01,431.73900000000003
+655,V-0656,2025-05-26,Queijo Coalho Tradicional,Laticínios,Atacarejo,Nordeste,Verão,55.0,32.5,0.11,1590.875
+656,V-0657,2025-02-22,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Norte,Verão,59.0,3.5,0.05,196.17499999999998
+657,V-0658,2025-11-20,Queijo Coalho Tradicional,Laticínios,Atacarejo,Nordeste,Verão,30.0,32.5,0.15,828.75
+658,V-0659,2025-06-24,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Norte,São João,30.0,5.8,0.1,156.6
+659,V-0660,2025-07-29,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Norte,São João,38.0,32.5,0.05,1173.25
+660,V-0661,2025-04-24,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Sudeste,Nenhuma,22.0,5.8,0.11,113.564
+661,V-0662,2025-04-17,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,Nenhuma,36.0,32.5,0.05,1111.5
+662,V-0663,2025-04-15,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,Nenhuma,10.0,4.2,0.11,37.38
+663,V-0664,2025-03-11,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Nordeste,Black Friday,2.0,8.9,0.08,16.376
+664,V-0665,2025-07-09,Biscoito Cream Cracker,Mercearia,Supermercado,Sudeste,Verão,59.0,4.2,0.01,245.322
+665,V-0666,2025-06-07,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Nordeste,Nenhuma,32.0,5.8,0.05,176.32
+666,V-0667,2025-06-17,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Norte,Black Friday,42.0,3.5,0.15,124.95
+667,V-0668,2025-05-08,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Nordeste,Black Friday,9.0,3.5,0.01,31.185
+668,V-0669,2025-01-25,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Sudeste,Nenhuma,28.0,5.8,0.05,154.28
+669,V-0670,2025-06-03,Queijo Coalho Tradicional,Laticínios,Supermercado,Norte,Verão,18.0,32.5,0.04,561.6
+670,V-0671,2025-12-13,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Nordeste,Nenhuma,21.0,5.8,0.0,121.8
+671,V-0672,2025-09-25,Biscoito Cream Cracker,Mercearia,Supermercado,Norte,Nenhuma,6.0,4.2,0.1,22.680000000000003
+672,V-0673,2025-02-01,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Sudeste,Verão,33.0,5.8,0.15,162.69
+673,V-0674,2025-01-04,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,Nenhuma,15.0,8.9,0.02,130.82999999999998
+674,V-0675,2025-03-30,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,Black Friday,26.0,8.9,0.1,208.26000000000002
+675,V-0676,2025-05-17,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,Nenhuma,18.0,32.5,0.0,585.0
+676,V-0677,2025-03-26,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Norte,Black Friday,1.0,3.5,0.06,3.29
+677,V-0678,2025-03-21,Queijo Coalho Tradicional,Laticínios,Supermercado,Norte,Nenhuma,58.0,32.5,0.13,1639.95
+678,V-0679,2025-09-06,Queijo Coalho Tradicional,Laticínios,Atacarejo,Sudeste,Black Friday,20.0,32.5,0.01,643.5
+679,V-0680,2025-07-08,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Nordeste,Verão,36.0,21.9,0.01,780.516
+680,V-0681,2025-04-04,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,Verão,6.0,32.5,0.06,183.29999999999998
+681,V-0682,2025-03-26,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Nordeste,Verão,12.0,3.5,0.11,37.38
+682,V-0683,2025-04-11,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Sudeste,Black Friday,33.0,21.9,0.15,614.295
+683,V-0684,2025-12-12,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Nordeste,Verão,33.0,21.9,0.07,672.1109999999999
+684,V-0685,2025-08-12,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Sudeste,Verão,44.0,3.5,0.12,135.52
+685,V-0686,2025-11-29,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Nordeste,Nenhuma,15.0,21.9,0.11,292.365
+686,V-0687,2025-03-31,Biscoito Cream Cracker,Mercearia,Supermercado,Nordeste,Verão,6.0,4.2,0.06,23.688000000000002
+687,V-0688,2025-04-24,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,5.0,3.5,0.15,14.875
+688,V-0689,2025-01-17,Biscoito Cream Cracker,Mercearia,Supermercado,Norte,Verão,51.0,4.2,0.0,214.20000000000002
+689,V-0690,2025-09-01,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Norte,Nenhuma,37.0,8.9,0.13,286.491
+690,V-0691,2025-08-04,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Nordeste,Black Friday,51.0,4.2,0.12,188.496
+691,V-0692,2025-02-21,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Sudeste,Black Friday,39.0,21.9,0.0,854.0999999999999
+692,V-0693,2025-02-26,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Norte,Verão,24.0,4.2,0.08,92.73600000000002
+693,V-0694,2025-03-12,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Sudeste,São João,56.0,3.5,0.09,178.36
+694,V-0695,2025-02-06,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,Verão,6.0,32.5,0.03,189.15
+695,V-0696,2025-04-17,Biscoito Cream Cracker,Mercearia,Supermercado,Nordeste,São João,29.0,4.2,0.12,107.18400000000001
+696,V-0697,2025-10-10,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,Black Friday,1.0,4.2,0.07,3.9059999999999997
+697,V-0698,2025-04-16,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Nordeste,Nenhuma,15.0,8.9,0.1,120.15
+698,V-0699,2025-09-21,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Nordeste,Verão,23.0,3.5,0.08,74.06
+699,V-0700,2025-02-07,Biscoito Cream Cracker,Mercearia,Atacarejo,Nordeste,Nenhuma,15.0,4.2,0.04,60.48
+700,V-0701,2025-06-22,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Sudeste,Verão,16.0,5.8,0.15,78.88
+701,V-0702,2025-02-20,Queijo Coalho Tradicional,Laticínios,Supermercado,Norte,Verão,50.0,32.5,0.02,1592.5
+702,V-0703,2025-01-13,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Nordeste,Verão,40.0,32.5,0.01,1287.0
+703,V-0704,2025-07-24,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Nordeste,Nenhuma,31.0,21.9,0.13,590.643
+704,V-0705,2025-05-23,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Nordeste,Nenhuma,24.0,3.5,0.14,72.24
+705,V-0706,2025-03-24,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Nordeste,Nenhuma,21.0,3.5,0.03,71.295
+706,V-0707,2025-05-06,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Norte,Nenhuma,12.0,32.5,0.09,354.90000000000003
+707,V-0708,2025-11-23,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Nordeste,Black Friday,30.0,3.5,0.04,100.8
+708,V-0709,2025-07-28,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,São João,32.0,32.5,0.12,915.2
+709,V-0710,2025-08-05,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Nordeste,Verão,9.0,4.2,0.08,34.776
+710,V-0711,2025-07-29,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Norte,Nenhuma,27.0,21.9,0.03,573.5609999999999
+711,V-0712,2025-07-05,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Sudeste,São João,49.0,8.9,0.07,405.573
+712,V-0713,2025-05-14,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Sudeste,Nenhuma,1.0,21.9,0.15,18.615
+713,V-0714,2025-06-04,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Nordeste,São João,11.0,21.9,0.03,233.67299999999997
+714,V-0715,2025-02-02,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Nenhuma,13.0,5.8,0.14,64.844
+715,V-0716,2025-12-22,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Norte,Black Friday,9.0,4.2,0.1,34.02
+716,V-0717,2025-02-23,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Sudeste,Nenhuma,42.0,21.9,0.02,901.4039999999999
+717,V-0718,2025-03-25,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Sudeste,Black Friday,34.0,8.9,0.07,281.418
+718,V-0719,2025-06-29,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Sudeste,São João,16.0,3.5,0.0,56.0
+719,V-0720,2025-09-15,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Nordeste,Black Friday,28.0,8.9,0.13,216.804
+720,V-0721,2025-04-11,Queijo Coalho Tradicional,Laticínios,Atacarejo,Nordeste,Verão,40.0,32.5,0.08,1196.0
+721,V-0722,2025-08-11,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Sudeste,São João,57.0,5.8,0.14,284.316
+722,V-0723,2025-12-04,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Sudeste,São João,49.0,8.9,0.06,409.934
+723,V-0724,2025-08-14,Tapioca Hidratada 1kg,Mercearia,Supermercado,Sudeste,São João,6.0,8.9,0.13,46.458000000000006
+724,V-0725,2025-02-18,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Sudeste,São João,43.0,5.8,0.06,234.43599999999998
+725,V-0726,2025-04-10,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,São João,43.0,5.8,0.01,246.906
+726,V-0727,2025-01-02,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Norte,Nenhuma,16.0,8.9,0.14,122.464
+727,V-0728,2025-08-21,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Nordeste,Black Friday,24.0,4.2,0.11,89.71200000000002
+728,V-0729,2025-01-08,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Sudeste,São João,40.0,8.9,0.13,309.71999999999997
+729,V-0730,2025-04-17,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Sudeste,Black Friday,24.0,8.9,0.1,192.24000000000004
+730,V-0731,2025-06-11,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Norte,Nenhuma,54.0,3.5,0.1,170.1
+731,V-0732,2025-07-13,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Norte,São João,51.0,3.5,0.12,157.08
+732,V-0733,2025-01-29,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,São João,4.0,32.5,0.05,123.5
+733,V-0734,2025-02-20,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Norte,Nenhuma,18.0,3.5,0.09,57.330000000000005
+734,V-0735,2025-11-11,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,São João,13.0,4.2,0.03,52.962
+735,V-0736,2025-10-29,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Sudeste,São João,5.0,3.5,0.12,15.4
+736,V-0737,2025-06-10,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Sudeste,Verão,43.0,21.9,0.1,847.53
+737,V-0738,2025-05-16,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Nordeste,Nenhuma,57.0,5.8,0.14,284.316
+738,V-0739,2025-05-11,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Sudeste,Nenhuma,49.0,5.8,0.03,275.674
+739,V-0740,2025-02-16,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Sudeste,Black Friday,17.0,5.8,0.01,97.61399999999999
+740,V-0741,2025-01-22,Queijo Coalho Tradicional,Laticínios,Supermercado,Norte,Verão,60.0,32.5,0.08,1794.0
+741,V-0742,2025-09-26,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Norte,Verão,56.0,5.8,0.01,321.552
+742,V-0743,2025-10-22,Biscoito Cream Cracker,Mercearia,Supermercado,Nordeste,Nenhuma,35.0,4.2,0.08,135.24
+743,V-0744,2025-02-26,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Sudeste,Nenhuma,55.0,5.8,0.04,306.24
+744,V-0745,2025-06-06,Biscoito Cream Cracker,Mercearia,Atacarejo,Nordeste,Nenhuma,57.0,4.2,0.15,203.49
+745,V-0746,2025-11-21,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Sudeste,São João,36.0,21.9,0.15,670.14
+746,V-0747,2025-05-26,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Sudeste,Verão,40.0,3.5,0.01,138.6
+747,V-0748,2025-02-09,Biscoito Cream Cracker,Mercearia,Supermercado,Norte,Nenhuma,42.0,4.2,0.03,171.108
+748,V-0749,2025-07-25,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Nordeste,Black Friday,42.0,3.5,0.15,124.95
+749,V-0750,2025-06-27,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Sudeste,Verão,31.0,3.5,0.13,94.395
+750,V-0751,2025-11-01,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Nordeste,Verão,33.0,32.5,0.09,975.975
+751,V-0752,2025-12-18,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Nordeste,Nenhuma,15.0,21.9,0.0,328.5
+752,V-0753,2025-08-18,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Sudeste,Nenhuma,1.0,3.5,0.11,3.115
+753,V-0754,2025-08-05,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Sudeste,São João,27.0,4.2,0.14,97.524
+754,V-0755,2025-03-12,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,Verão,2.0,32.5,0.15,55.25
+755,V-0756,2025-11-15,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Norte,Nenhuma,49.0,5.8,0.09,258.622
+756,V-0757,2025-11-14,Queijo Coalho Tradicional,Laticínios,Atacarejo,Nordeste,Nenhuma,46.0,32.5,0.08,1375.4
+757,V-0758,2025-09-02,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Sudeste,São João,37.0,32.5,0.02,1178.45
+758,V-0759,2025-02-07,Queijo Coalho Tradicional,Laticínios,Supermercado,Norte,Verão,31.0,32.5,0.1,906.75
+759,V-0760,2025-05-29,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Sudeste,Nenhuma,6.0,3.5,0.08,19.32
+760,V-0761,2025-08-28,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Norte,Nenhuma,42.0,5.8,0.0,243.6
+761,V-0762,2025-03-17,Biscoito Cream Cracker,Mercearia,Supermercado,Norte,São João,42.0,4.2,0.07,164.052
+762,V-0763,2025-07-10,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Sudeste,São João,60.0,3.5,0.01,207.9
+763,V-0764,2025-12-08,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Nordeste,Nenhuma,51.0,3.5,0.02,174.93
+764,V-0765,2025-01-14,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Norte,Verão,44.0,3.5,0.06,144.76
+765,V-0766,2025-08-21,Biscoito Cream Cracker,Mercearia,Atacarejo,Nordeste,Black Friday,15.0,4.2,0.01,62.37
+766,V-0767,2025-06-02,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Sudeste,Black Friday,35.0,5.8,0.07,188.79
+767,V-0768,2025-11-22,Biscoito Cream Cracker,Mercearia,Supermercado,Norte,Nenhuma,46.0,4.2,0.05,183.54000000000002
+768,V-0769,2025-02-22,Biscoito Cream Cracker,Mercearia,Supermercado,Sudeste,São João,8.0,4.2,0.0,33.6
+769,V-0770,2025-12-02,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Norte,Nenhuma,4.0,21.9,0.15,74.46
+770,V-0771,2025-01-24,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Nordeste,Nenhuma,19.0,5.8,0.12,96.976
+771,V-0772,2025-08-02,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Sudeste,Nenhuma,37.0,3.5,0.07,120.43499999999999
+772,V-0773,2025-06-03,Biscoito Cream Cracker,Mercearia,Atacarejo,Sudeste,Nenhuma,48.0,4.2,0.09,183.45600000000002
+773,V-0774,2025-04-22,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Sudeste,São João,28.0,5.8,0.0,162.4
+774,V-0775,2025-10-19,Biscoito Cream Cracker,Mercearia,Supermercado,Nordeste,São João,30.0,4.2,0.12,110.88
+775,V-0776,2025-03-29,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Sudeste,Black Friday,46.0,3.5,0.02,157.78
+776,V-0777,2025-12-19,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Nordeste,São João,5.0,5.8,0.08,26.68
+777,V-0778,2025-05-05,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,São João,50.0,5.8,0.03,281.3
+778,V-0779,2025-11-27,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Sudeste,Nenhuma,43.0,21.9,0.13,819.2789999999999
+779,V-0780,2025-11-13,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Nordeste,Black Friday,24.0,3.5,0.12,73.92
+780,V-0781,2025-12-18,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Norte,Nenhuma,42.0,21.9,0.01,910.602
+781,V-0782,2025-10-08,Queijo Coalho Tradicional,Laticínios,Supermercado,Sudeste,Nenhuma,30.0,32.5,0.09,887.25
+782,V-0783,2025-12-26,Biscoito Cream Cracker,Mercearia,Supermercado,Norte,Black Friday,50.0,4.2,0.13,182.7
+783,V-0784,2025-01-09,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Nordeste,Verão,46.0,3.5,0.07,149.73
+784,V-0785,2025-12-07,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Nordeste,Nenhuma,22.0,3.5,0.14,66.22
+785,V-0786,2025-10-08,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Norte,Verão,48.0,5.8,0.04,267.26399999999995
+786,V-0787,2025-05-22,Tapioca Hidratada 1kg,Mercearia,Supermercado,Norte,Verão,9.0,8.9,0.15,68.08500000000001
+787,V-0788,2025-03-23,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Norte,Nenhuma,47.0,3.5,0.02,161.21
+788,V-0789,2025-08-04,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Sudeste,Black Friday,30.0,21.9,0.13,571.59
+789,V-0790,2025-11-08,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,Black Friday,15.0,8.9,0.05,126.82499999999999
+790,V-0791,2025-12-19,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Nordeste,São João,26.0,3.5,0.11,80.99
+791,V-0792,2025-11-02,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,50.0,4.2,0.15,178.5
+792,V-0793,2025-07-07,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Sudeste,São João,30.0,5.8,0.03,168.78
+793,V-0794,2025-10-21,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Norte,Black Friday,53.0,21.9,0.06,1091.0579999999998
+794,V-0795,2025-07-15,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Sudeste,Verão,38.0,21.9,0.02,815.5559999999999
+795,V-0796,2025-09-18,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Norte,Nenhuma,23.0,32.5,0.09,680.225
+796,V-0797,2025-07-05,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Norte,Nenhuma,51.0,21.9,0.12,982.8719999999998
+797,V-0798,2025-07-14,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,Black Friday,34.0,32.5,0.0,1105.0
+798,V-0799,2025-06-26,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Norte,Nenhuma,59.0,8.9,0.02,514.598
+799,V-0800,2025-04-11,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Norte,Black Friday,58.0,3.5,0.04,194.88
+800,V-0801,2025-06-24,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Verão,5.0,5.8,0.08,26.68
+801,V-0802,2025-06-26,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Norte,Nenhuma,51.0,32.5,0.12,1458.6
+802,V-0803,2025-02-11,Tapioca Hidratada 1kg,Mercearia,Supermercado,Sudeste,Black Friday,27.0,8.9,0.15,204.255
+803,V-0804,2025-04-12,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Norte,Nenhuma,5.0,3.5,0.15,14.875
+804,V-0805,2025-02-22,Tapioca Hidratada 1kg,Mercearia,Supermercado,Nordeste,São João,42.0,8.9,0.14,321.468
+805,V-0806,2025-07-20,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Sudeste,Verão,52.0,21.9,0.14,979.3679999999999
+806,V-0807,2025-08-29,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Norte,Nenhuma,42.0,21.9,0.1,827.8199999999999
+807,V-0808,2025-06-07,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Norte,Nenhuma,59.0,21.9,0.15,1098.2849999999999
+808,V-0809,2025-03-02,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Nordeste,Black Friday,6.0,3.5,0.03,20.37
+809,V-0810,2025-08-01,Queijo Coalho Tradicional,Laticínios,Supermercado,Sudeste,São João,7.0,32.5,0.0,227.5
+810,V-0811,2025-08-19,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Norte,Nenhuma,37.0,21.9,0.07,753.579
+811,V-0812,2025-09-04,Biscoito Cream Cracker,Mercearia,Supermercado,Nordeste,Nenhuma,12.0,4.2,0.0,50.400000000000006
+812,V-0813,2025-09-19,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Norte,Black Friday,5.0,3.5,0.14,15.049999999999999
+813,V-0814,2025-06-10,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Norte,Verão,29.0,3.5,0.15,86.27499999999999
+814,V-0815,2025-03-31,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Sudeste,São João,14.0,21.9,0.15,260.60999999999996
+815,V-0816,2025-08-22,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Sudeste,Nenhuma,20.0,21.9,0.12,385.44
+816,V-0817,2025-05-16,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Nordeste,São João,55.0,8.9,0.09,445.445
+817,V-0818,2025-09-13,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Nenhuma,15.0,5.8,0.08,80.04
+818,V-0819,2025-02-23,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Nordeste,Verão,11.0,5.8,0.06,59.971999999999994
+819,V-0820,2025-09-16,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Nordeste,Nenhuma,5.0,21.9,0.11,97.455
+820,V-0821,2025-12-10,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Nenhuma,29.0,5.8,0.03,163.154
+821,V-0822,2025-06-14,Biscoito Cream Cracker,Mercearia,Atacarejo,Sudeste,Verão,14.0,4.2,0.03,57.036
+822,V-0823,2025-11-04,Queijo Coalho Tradicional,Laticínios,Atacarejo,Sudeste,São João,52.0,32.5,0.07,1571.6999999999998
+823,V-0824,2025-08-08,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Sudeste,São João,40.0,21.9,0.06,823.4399999999999
+824,V-0825,2025-08-23,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Norte,Verão,36.0,3.5,0.09,114.66000000000001
+825,V-0826,2025-10-14,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Norte,Black Friday,12.0,21.9,0.05,249.65999999999994
+826,V-0827,2025-01-23,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Nordeste,Nenhuma,32.0,21.9,0.04,672.7679999999999
+827,V-0828,2025-01-06,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Sudeste,Nenhuma,38.0,3.5,0.09,121.03
+828,V-0829,2025-10-30,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Norte,São João,29.0,21.9,0.03,616.0469999999999
+829,V-0830,2025-12-26,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Nordeste,São João,32.0,21.9,0.04,672.7679999999999
+830,V-0831,2025-07-01,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Nordeste,Black Friday,17.0,32.5,0.03,535.925
+831,V-0832,2025-04-20,Biscoito Cream Cracker,Mercearia,Atacarejo,Sudeste,Verão,52.0,4.2,0.13,190.008
+832,V-0833,2025-03-25,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Nordeste,Black Friday,4.0,8.9,0.01,35.244
+833,V-0834,2025-05-02,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Nordeste,Black Friday,11.0,21.9,0.11,214.40099999999998
+834,V-0835,2025-09-18,Queijo Coalho Tradicional,Laticínios,Atacarejo,Sudeste,Verão,56.0,32.5,0.11,1619.8
+835,V-0836,2025-11-10,Tapioca Hidratada 1kg,Mercearia,Supermercado,Sudeste,Nenhuma,11.0,8.9,0.12,86.152
+836,V-0837,2025-09-19,Biscoito Cream Cracker,Mercearia,Supermercado,Sudeste,Nenhuma,1.0,4.2,0.05,3.9899999999999998
+837,V-0838,2025-11-17,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,São João,2.0,8.9,0.13,15.486
+838,V-0839,2025-05-29,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Norte,Verão,26.0,32.5,0.13,735.15
+839,V-0840,2025-06-02,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Norte,Verão,10.0,5.8,0.09,52.78
+840,V-0841,2025-12-26,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,Black Friday,24.0,32.5,0.09,709.8000000000001
+841,V-0842,2025-09-05,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,25.0,8.9,0.01,220.275
+842,V-0843,2025-10-23,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Sudeste,Nenhuma,44.0,21.9,0.03,934.6919999999999
+843,V-0844,2025-04-12,Tapioca Hidratada 1kg,Mercearia,Supermercado,Nordeste,Verão,31.0,8.9,0.0,275.90000000000003
+844,V-0845,2025-04-25,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Nordeste,Nenhuma,56.0,3.5,0.01,194.04
+845,V-0846,2025-07-09,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Sudeste,Black Friday,19.0,32.5,0.1,555.75
+846,V-0847,2025-03-29,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Sudeste,Nenhuma,17.0,3.5,0.03,57.714999999999996
+847,V-0848,2025-07-12,Queijo Coalho Tradicional,Laticínios,Atacarejo,Sudeste,Nenhuma,34.0,32.5,0.07,1027.6499999999999
+848,V-0849,2025-06-23,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Nordeste,São João,53.0,21.9,0.05,1102.6649999999997
+849,V-0850,2025-03-17,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Sudeste,Black Friday,24.0,4.2,0.12,88.70400000000001
+850,V-0851,2025-02-17,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,Black Friday,52.0,8.9,0.04,444.288
+851,V-0852,2025-03-29,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Sudeste,Black Friday,37.0,8.9,0.14,283.198
+852,V-0853,2025-12-03,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Nordeste,Verão,13.0,3.5,0.07,42.315
+853,V-0854,2025-12-08,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Norte,Nenhuma,1.0,3.5,0.05,3.3249999999999997
+854,V-0855,2025-06-16,Queijo Coalho Tradicional,Laticínios,Atacarejo,Nordeste,Nenhuma,60.0,32.5,0.12,1716.0
+855,V-0856,2025-07-27,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Norte,Black Friday,10.0,3.5,0.11,31.150000000000002
+856,V-0857,2025-07-01,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Sudeste,Verão,29.0,8.9,0.07,240.03300000000002
+857,V-0858,2025-06-06,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Norte,São João,30.0,3.5,0.01,103.95
+858,V-0859,2025-10-30,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Norte,São João,60.0,21.9,0.12,1156.32
+859,V-0860,2025-09-29,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Nordeste,Verão,25.0,5.8,0.15,123.25
+860,V-0861,2025-04-29,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Sudeste,Black Friday,26.0,5.8,0.05,143.26
+861,V-0862,2025-01-02,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,Nenhuma,22.0,32.5,0.04,686.4
+862,V-0863,2025-10-22,Biscoito Cream Cracker,Mercearia,Atacarejo,Sudeste,Nenhuma,38.0,4.2,0.02,156.408
+863,V-0864,2025-09-22,Queijo Coalho Tradicional,Laticínios,Atacarejo,Nordeste,Nenhuma,24.0,32.5,0.07,725.4
+864,V-0865,2025-12-31,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Nordeste,Black Friday,14.0,8.9,0.02,122.108
+865,V-0866,2025-11-28,Tapioca Hidratada 1kg,Mercearia,Supermercado,Norte,Nenhuma,17.0,8.9,0.1,136.17000000000002
+866,V-0867,2025-01-11,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Nordeste,Verão,27.0,21.9,0.09,538.083
+867,V-0868,2025-02-22,Tapioca Hidratada 1kg,Mercearia,Supermercado,Norte,Black Friday,28.0,8.9,0.1,224.28000000000003
+868,V-0869,2025-11-26,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Norte,Verão,10.0,21.9,0.03,212.43
+869,V-0870,2025-11-01,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Norte,Nenhuma,28.0,8.9,0.15,211.82000000000002
+870,V-0871,2025-05-30,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Sudeste,São João,35.0,3.5,0.11,109.025
+871,V-0872,2025-11-20,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Nordeste,Black Friday,5.0,5.8,0.05,27.549999999999997
+872,V-0873,2025-07-17,Biscoito Cream Cracker,Mercearia,Atacarejo,Nordeste,Verão,11.0,4.2,0.08,42.504000000000005
+873,V-0874,2025-11-01,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Norte,Black Friday,59.0,32.5,0.13,1668.225
+874,V-0875,2025-01-22,Queijo Coalho Tradicional,Laticínios,Atacarejo,Nordeste,Black Friday,40.0,32.5,0.01,1287.0
+875,V-0876,2025-10-20,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Norte,Nenhuma,30.0,21.9,0.0,657.0
+876,V-0877,2025-04-29,Tapioca Hidratada 1kg,Mercearia,Supermercado,Sudeste,Verão,18.0,8.9,0.05,152.19
+877,V-0878,2025-02-06,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Sudeste,Verão,60.0,5.8,0.0,348.0
+878,V-0879,2025-10-20,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Norte,Black Friday,4.0,5.8,0.07,21.575999999999997
+879,V-0880,2025-04-10,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Sudeste,Black Friday,18.0,21.9,0.15,335.07
+880,V-0881,2025-01-27,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Norte,Nenhuma,40.0,5.8,0.05,220.39999999999998
+881,V-0882,2025-12-02,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Nordeste,Nenhuma,39.0,5.8,0.03,219.414
+882,V-0883,2025-01-30,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Norte,Verão,31.0,3.5,0.14,93.31
+883,V-0884,2025-08-17,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Sudeste,Verão,3.0,5.8,0.01,17.226
+884,V-0885,2025-02-07,Queijo Coalho Tradicional,Laticínios,Supermercado,Sudeste,São João,29.0,32.5,0.13,819.975
+885,V-0886,2025-01-20,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Norte,Nenhuma,8.0,3.5,0.12,24.64
+886,V-0887,2025-04-29,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,Verão,5.0,32.5,0.01,160.875
+887,V-0888,2025-09-26,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Norte,Nenhuma,6.0,3.5,0.0,21.0
+888,V-0889,2025-11-05,Biscoito Cream Cracker,Mercearia,Supermercado,Nordeste,Verão,4.0,4.2,0.07,15.623999999999999
+889,V-0890,2025-10-15,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Sudeste,Verão,39.0,8.9,0.03,336.687
+890,V-0891,2025-05-03,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Sudeste,Nenhuma,21.0,32.5,0.13,593.775
+891,V-0892,2025-04-10,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Nordeste,São João,17.0,32.5,0.09,502.77500000000003
+892,V-0893,2025-05-23,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Sudeste,São João,22.0,3.5,0.06,72.38
+893,V-0894,2025-02-25,Biscoito Cream Cracker,Mercearia,Supermercado,Norte,Nenhuma,54.0,4.2,0.14,195.048
+894,V-0895,2025-10-24,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Norte,Black Friday,41.0,21.9,0.14,772.194
+895,V-0896,2025-05-25,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Norte,Verão,56.0,21.9,0.05,1165.08
+896,V-0897,2025-02-12,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,São João,26.0,32.5,0.09,768.95
+897,V-0898,2025-01-11,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Nordeste,São João,16.0,32.5,0.04,499.2
+898,V-0899,2025-10-14,Biscoito Cream Cracker,Mercearia,Supermercado,Nordeste,São João,44.0,4.2,0.09,168.168
+899,V-0900,2025-09-07,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,Verão,37.0,8.9,0.14,283.198
+900,V-0901,2025-10-16,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Sudeste,Black Friday,19.0,32.5,0.15,524.875
+901,V-0902,2025-11-09,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Norte,Verão,40.0,21.9,0.05,832.1999999999999
+902,V-0903,2025-03-12,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Sudeste,Nenhuma,25.0,3.5,0.06,82.25
+903,V-0904,2025-06-27,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Norte,Nenhuma,57.0,8.9,0.08,466.716
+904,V-0905,2025-07-25,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Norte,Nenhuma,45.0,5.8,0.15,221.85
+905,V-0906,2025-11-26,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Sudeste,São João,4.0,8.9,0.15,30.26
+906,V-0907,2025-12-01,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Norte,Nenhuma,24.0,5.8,0.08,128.064
+907,V-0908,2025-10-02,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Nordeste,Verão,4.0,4.2,0.14,14.448
+908,V-0909,2025-08-29,Tapioca Hidratada 1kg,Mercearia,Supermercado,Nordeste,Nenhuma,28.0,8.9,0.05,236.74
+909,V-0910,2025-03-23,Biscoito Cream Cracker,Mercearia,Atacarejo,Nordeste,Black Friday,33.0,4.2,0.13,120.582
+910,V-0911,2025-07-16,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Nordeste,São João,45.0,32.5,0.02,1433.25
+911,V-0912,2025-06-04,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Norte,Nenhuma,37.0,8.9,0.12,289.784
+912,V-0913,2025-08-23,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Sudeste,Nenhuma,35.0,4.2,0.12,129.36
+913,V-0914,2025-11-11,Biscoito Cream Cracker,Mercearia,Supermercado,Norte,São João,48.0,4.2,0.09,183.45600000000002
+914,V-0915,2025-12-24,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Nordeste,Black Friday,27.0,21.9,0.02,579.4739999999999
+915,V-0916,2025-02-15,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Nordeste,Verão,10.0,3.5,0.14,30.099999999999998
+916,V-0917,2025-09-30,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,Nenhuma,45.0,32.5,0.11,1301.625
+917,V-0918,2025-12-12,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Sudeste,Nenhuma,42.0,5.8,0.04,233.856
+918,V-0919,2025-11-24,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Norte,São João,53.0,32.5,0.0,1722.5
+919,V-0920,2025-06-12,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,São João,22.0,32.5,0.08,657.8000000000001
+920,V-0921,2025-08-07,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Sudeste,Verão,17.0,5.8,0.11,87.75399999999999
+921,V-0922,2025-12-12,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Sudeste,Verão,59.0,5.8,0.13,297.714
+922,V-0923,2025-10-27,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Norte,São João,10.0,21.9,0.04,210.23999999999998
+923,V-0924,2025-01-05,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Norte,Nenhuma,8.0,32.5,0.11,231.4
+924,V-0925,2025-06-26,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Sudeste,São João,60.0,3.5,0.0,210.0
+925,V-0926,2025-06-02,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Sudeste,Nenhuma,19.0,5.8,0.01,109.098
+926,V-0927,2025-12-09,Queijo Coalho Tradicional,Laticínios,Supermercado,Norte,São João,48.0,32.5,0.1,1404.0
+927,V-0928,2025-03-22,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Norte,São João,41.0,3.5,0.03,139.195
+928,V-0929,2025-04-26,Biscoito Cream Cracker,Mercearia,Supermercado,Sudeste,Black Friday,13.0,4.2,0.15,46.41
+929,V-0930,2025-12-08,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Nordeste,Verão,41.0,4.2,0.15,146.37
+930,V-0931,2025-04-18,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Norte,Verão,32.0,5.8,0.05,176.32
+931,V-0932,2025-02-13,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Norte,Verão,13.0,3.5,0.11,40.495
+932,V-0933,2025-01-16,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,Nenhuma,53.0,32.5,0.01,1705.275
+933,V-0934,2025-05-02,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Sudeste,Nenhuma,46.0,3.5,0.11,143.29
+934,V-0935,2025-08-22,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,4.0,3.5,0.14,12.04
+935,V-0936,2025-02-17,Leite Integral Bom Todo 1L,Laticínios,Atacarejo,Sudeste,Black Friday,19.0,5.8,0.05,104.69
+936,V-0937,2025-03-26,Biscoito Cream Cracker,Mercearia,Supermercado,Norte,Nenhuma,1.0,4.2,0.1,3.7800000000000002
+937,V-0938,2025-12-20,Biscoito Cream Cracker,Mercearia,Atacarejo,Nordeste,Verão,33.0,4.2,0.04,133.05599999999998
+938,V-0939,2025-07-22,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Nordeste,Black Friday,11.0,21.9,0.14,207.17399999999998
+939,V-0940,2025-03-10,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Norte,Nenhuma,40.0,3.5,0.11,124.60000000000001
+940,V-0941,2025-10-27,Biscoito Cream Cracker,Mercearia,Supermercado,Sudeste,Nenhuma,3.0,4.2,0.11,11.214000000000002
+941,V-0942,2025-08-18,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,Nenhuma,34.0,32.5,0.05,1049.75
+942,V-0943,2025-02-16,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Sudeste,São João,28.0,21.9,0.07,570.276
+943,V-0944,2025-06-20,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,Verão,43.0,8.9,0.08,352.084
+944,V-0945,2025-12-28,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Sudeste,Verão,42.0,4.2,0.15,149.94
+945,V-0946,2025-01-20,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Nordeste,Nenhuma,44.0,5.8,0.02,250.09599999999998
+946,V-0947,2025-11-26,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Norte,São João,50.0,4.2,0.04,201.6
+947,V-0948,2025-08-21,Tapioca Hidratada 1kg,Mercearia,Supermercado,Sudeste,Verão,45.0,8.9,0.06,376.46999999999997
+948,V-0949,2025-09-12,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Nordeste,Nenhuma,15.0,21.9,0.01,325.215
+949,V-0950,2025-11-30,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Sudeste,Black Friday,4.0,32.5,0.11,115.7
+950,V-0951,2025-09-26,Leite Integral Bom Todo 1L,Laticínios,Supermercado,Nordeste,Black Friday,52.0,5.8,0.07,280.48799999999994
+951,V-0952,2025-07-02,Biscoito Cream Cracker,Mercearia,Atacarejo,Sudeste,Black Friday,34.0,4.2,0.02,139.94400000000002
+952,V-0953,2025-07-29,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Nordeste,Black Friday,30.0,3.5,0.04,100.8
+953,V-0954,2025-08-23,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Norte,Nenhuma,5.0,5.8,0.15,24.65
+954,V-0955,2025-11-15,Cuscuz Flocão Bom Todo 500g,Mercearia,Atacarejo,Sudeste,Black Friday,10.0,3.5,0.11,31.150000000000002
+955,V-0956,2025-12-16,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Sudeste,Verão,20.0,4.2,0.14,72.24
+956,V-0957,2025-12-13,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Norte,Nenhuma,16.0,21.9,0.04,336.38399999999996
+957,V-0958,2025-04-19,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Norte,Black Friday,22.0,3.5,0.14,66.22
+958,V-0959,2025-08-09,Biscoito Cream Cracker,Mercearia,Supermercado,Nordeste,Nenhuma,54.0,4.2,0.12,199.584
+959,V-0960,2025-10-21,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,Verão,40.0,8.9,0.03,345.32
+960,V-0961,2025-07-30,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Sudeste,Nenhuma,44.0,4.2,0.14,158.928
+961,V-0962,2025-03-26,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Norte,Nenhuma,19.0,5.8,0.09,100.28200000000001
+962,V-0963,2025-07-13,Tapioca Hidratada 1kg,Mercearia,Supermercado,Norte,Black Friday,34.0,8.9,0.0,302.6
+963,V-0964,2025-10-18,Biscoito Cream Cracker,Mercearia,Atacarejo,Norte,Verão,60.0,4.2,0.14,216.72
+964,V-0965,2025-12-22,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Sudeste,Nenhuma,60.0,3.5,0.11,186.9
+965,V-0966,2025-06-15,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Norte,Verão,33.0,4.2,0.04,133.05599999999998
+966,V-0967,2025-08-07,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Norte,Nenhuma,28.0,8.9,0.08,229.26400000000004
+967,V-0968,2025-07-02,Manteiga de Garrafa 250ml,Laticínios,Supermercado,Nordeste,Nenhuma,35.0,21.9,0.07,712.8449999999999
+968,V-0969,2025-03-20,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Sudeste,Nenhuma,14.0,32.5,0.14,391.3
+969,V-0970,2025-10-20,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Norte,Nenhuma,4.0,5.8,0.12,20.416
+970,V-0971,2025-10-07,Queijo Coalho Tradicional,Laticínios,Atacarejo,Norte,Nenhuma,22.0,32.5,0.1,643.5
+971,V-0972,2025-07-22,Cuscuz Flocão Bom Todo 500g,Mercearia,Supermercado,Sudeste,Verão,11.0,3.5,0.02,37.73
+972,V-0973,2025-02-09,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,26.0,3.5,0.07,84.63
+973,V-0974,2025-07-09,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Nordeste,São João,7.0,4.2,0.04,28.224
+974,V-0975,2025-05-05,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,1.0,3.5,0.03,3.395
+975,V-0976,2025-03-25,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Sudeste,São João,38.0,8.9,0.1,304.38
+976,V-0977,2025-10-31,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Nordeste,Nenhuma,33.0,3.5,0.0,115.5
+977,V-0978,2025-05-11,Manteiga de Garrafa 250ml,Laticínios,Pequeno Varejo,Sudeste,Nenhuma,48.0,21.9,0.03,1019.6639999999998
+978,V-0979,2025-04-14,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Nordeste,Verão,46.0,5.8,0.01,264.132
+979,V-0980,2025-12-19,Tapioca Hidratada 1kg,Mercearia,Supermercado,Nordeste,Verão,10.0,8.9,0.13,77.42999999999999
+980,V-0981,2025-07-10,Tapioca Hidratada 1kg,Mercearia,Supermercado,Norte,Nenhuma,20.0,8.9,0.11,158.42000000000002
+981,V-0982,2025-07-19,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,São João,35.0,32.5,0.01,1126.125
+982,V-0983,2025-03-24,Biscoito Cream Cracker,Mercearia,Pequeno Varejo,Sudeste,Nenhuma,46.0,4.2,0.02,189.336
+983,V-0984,2025-08-22,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Norte,Black Friday,31.0,32.5,0.01,997.425
+984,V-0985,2025-07-29,Queijo Coalho Tradicional,Laticínios,Supermercado,Nordeste,Verão,30.0,32.5,0.09,887.25
+985,V-0986,2025-05-16,Biscoito Cream Cracker,Mercearia,Supermercado,Sudeste,Verão,42.0,4.2,0.03,171.108
+986,V-0987,2025-01-05,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Norte,Nenhuma,28.0,32.5,0.0,910.0
+987,V-0988,2025-04-12,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Nordeste,Nenhuma,57.0,5.8,0.03,320.68199999999996
+988,V-0989,2025-09-17,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Norte,Nenhuma,17.0,8.9,0.05,143.735
+989,V-0990,2025-01-23,Tapioca Hidratada 1kg,Mercearia,Supermercado,Sudeste,Nenhuma,60.0,8.9,0.11,475.26
+990,V-0991,2025-01-29,Tapioca Hidratada 1kg,Mercearia,Supermercado,Norte,Black Friday,22.0,8.9,0.02,191.88400000000001
+991,V-0992,2025-07-01,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Sudeste,Black Friday,18.0,32.5,0.01,579.15
+992,V-0993,2025-03-24,Queijo Coalho Tradicional,Laticínios,Pequeno Varejo,Sudeste,São João,8.0,32.5,0.04,249.6
+993,V-0994,2025-10-17,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Sudeste,Black Friday,47.0,5.8,0.06,256.24399999999997
+994,V-0995,2025-03-10,Tapioca Hidratada 1kg,Mercearia,Pequeno Varejo,Nordeste,Black Friday,41.0,8.9,0.12,321.112
+995,V-0996,2025-09-24,Cuscuz Flocão Bom Todo 500g,Mercearia,Pequeno Varejo,Norte,Nenhuma,29.0,3.5,0.07,94.395
+996,V-0997,2025-03-10,Tapioca Hidratada 1kg,Mercearia,Atacarejo,Sudeste,Nenhuma,18.0,8.9,0.07,148.98600000000002
+997,V-0998,2025-01-04,Leite Integral Bom Todo 1L,Laticínios,Pequeno Varejo,Norte,São João,4.0,5.8,0.05,22.04
+998,V-0999,2025-11-11,Manteiga de Garrafa 250ml,Laticínios,Atacarejo,Norte,Nenhuma,26.0,21.9,0.1,512.46
+999,V-1000,,,,,,,,,,
+1000,V-1001,,,,,,,,,,
+1001,V-1002,,,,,,,,,,
+1002,V-1003,,,,,,,,,,
+1003,V-1004,,,,,,,,,,
+1004,V-1005,,,,,,,,,,
+1005,V-1006,,,,,,,,,,
+1006,V-1007,,,,,,,,,,
+1007,V-1008,,,,,,,,,,
+1008,V-1009,,,,,,,,,,
+1009,V-1010,,,,,,,,,,
+1010,V-1011,,,,,,,,,,
+1011,V-1012,,,,,,,,,,
+1012,V-1013,,,,,,,,,,
+1013,V-1014,,,,,,,,,,
+1014,V-1015,,,,,,,,,,
+1015,V-1016,,,,,,,,,,
+1016,V-1017,,,,,,,,,,
+1017,V-1018,,,,,,,,,,
+1018,V-1019,,,,,,,,,,
+1019,V-1020,,,,,,,,,,
+1020,V-1021,,,,,,,,,,
+1021,V-1022,,,,,,,,,,
+1022,V-1023,,,,,,,,,,
+1023,V-1024,,,,,,,,,,
+1024,V-1025,,,,,,,,,,
+1025,V-1026,,,,,,,,,,
+1026,V-1027,,,,,,,,,,
+1027,V-1028,,,,,,,,,,
+1028,V-1029,,,,,,,,,,
+1029,V-1030,,,,,,,,,,
+1030,V-1031,,,,,,,,,,
+1031,V-1032,,,,,,,,,,
+1032,V-1033,,,,,,,,,,
+1033,V-1034,,,,,,,,,,
+1034,V-1035,,,,,,,,,,
+1035,V-1036,,,,,,,,,,
+1036,V-1037,,,,,,,,,,
+1037,V-1038,,,,,,,,,,
+1038,V-1039,,,,,,,,,,
+1039,V-1040,,,,,,,,,,
+1040,V-1041,,,,,,,,,,
+1041,V-1042,,,,,,,,,,
+1042,V-1043,,,,,,,,,,
+1043,V-1044,,,,,,,,,,
+1044,V-1045,,,,,,,,,,
+1045,V-1046,,,,,,,,,,
+1046,V-1047,,,,,,,,,,
+1047,V-1048,,,,,,,,,,
+1048,V-1049,,,,,,,,,,
+1049,V-1050,,,,,,,,,,
+1050,V-1051,,,,,,,,,,
+1051,V-1052,,,,,,,,,,
+1052,V-1053,,,,,,,,,,
+1053,V-1054,,,,,,,,,,
+1054,V-1055,,,,,,,,,,
+1055,V-1056,,,,,,,,,,
+1056,V-1057,,,,,,,,,,
+1057,V-1058,,,,,,,,,,
+1058,V-1059,,,,,,,,,,
+1059,V-1060,,,,,,,,,,
+1060,V-1061,,,,,,,,,,
+1061,V-1062,,,,,,,,,,
+1062,V-1063,,,,,,,,,,
+1063,V-1064,,,,,,,,,,
+1064,V-1065,,,,,,,,,,
+1065,V-1066,,,,,,,,,,
+1066,V-1067,,,,,,,,,,
+1067,V-1068,,,,,,,,,,
+1068,V-1069,,,,,,,,,,
+1069,V-1070,,,,,,,,,,
+1070,V-1071,,,,,,,,,,
+1071,V-1072,,,,,,,,,,
+1072,V-1073,,,,,,,,,,
+1073,V-1074,,,,,,,,,,
+1074,V-1075,,,,,,,,,,
+1075,V-1076,,,,,,,,,,
+1076,V-1077,,,,,,,,,,
+1077,V-1078,,,,,,,,,,
+1078,V-1079,,,,,,,,,,
+1079,V-1080,,,,,,,,,,
+1080,V-1081,,,,,,,,,,
+1081,V-1082,,,,,,,,,,
+1082,V-1083,,,,,,,,,,
+1083,V-1084,,,,,,,,,,
+1084,V-1085,,,,,,,,,,
+1085,V-1086,,,,,,,,,,
+1086,V-1087,,,,,,,,,,
+1087,V-1088,,,,,,,,,,
+1088,V-1089,,,,,,,,,,
+1089,V-1090,,,,,,,,,,
+1090,V-1091,,,,,,,,,,
+1091,V-1092,,,,,,,,,,
+1092,V-1093,,,,,,,,,,
+1093,V-1094,,,,,,,,,,
+1094,V-1095,,,,,,,,,,
+1095,V-1096,,,,,,,,,,
+1096,V-1097,,,,,,,,,,
+1097,V-1098,,,,,,,,,,
+1098,V-1099,,,,,,,,,,
+1099,V-1100,,,,,,,,,,
+1100,V-1101,,,,,,,,,,
+1101,V-1102,,,,,,,,,,
+1102,V-1103,,,,,,,,,,
+1103,V-1104,,,,,,,,,,
+1104,V-1105,,,,,,,,,,
+1105,V-1106,,,,,,,,,,
+1106,V-1107,,,,,,,,,,
+1107,V-1108,,,,,,,,,,
+1108,V-1109,,,,,,,,,,
+1109,V-1110,,,,,,,,,,
+1110,V-1111,,,,,,,,,,
+1111,V-1112,,,,,,,,,,
+1112,V-1113,,,,,,,,,,
+1113,V-1114,,,,,,,,,,
+1114,V-1115,,,,,,,,,,
+1115,V-1116,,,,,,,,,,
+1116,V-1117,,,,,,,,,,
+1117,V-1118,,,,,,,,,,
+1118,V-1119,,,,,,,,,,
+1119,V-1120,,,,,,,,,,
+1120,V-1121,,,,,,,,,,
+1121,V-1122,,,,,,,,,,
+1122,V-1123,,,,,,,,,,
+1123,V-1124,,,,,,,,,,
+1124,V-1125,,,,,,,,,,
+1125,V-1126,,,,,,,,,,
+1126,V-1127,,,,,,,,,,
+1127,V-1128,,,,,,,,,,
+1128,V-1129,,,,,,,,,,
+1129,V-1130,,,,,,,,,,
+1130,V-1131,,,,,,,,,,
+1131,V-1132,,,,,,,,,,
+1132,V-1133,,,,,,,,,,
+1133,V-1134,,,,,,,,,,
+1134,V-1135,,,,,,,,,,
+1135,V-1136,,,,,,,,,,
+1136,V-1137,,,,,,,,,,
+1137,V-1138,,,,,,,,,,
+1138,V-1139,,,,,,,,,,
+1139,V-1140,,,,,,,,,,
+1140,V-1141,,,,,,,,,,
+1141,V-1142,,,,,,,,,,
+1142,V-1143,,,,,,,,,,
+1143,V-1144,,,,,,,,,,
+1144,V-1145,,,,,,,,,,
+1145,V-1146,,,,,,,,,,
+1146,V-1147,,,,,,,,,,
+1147,V-1148,,,,,,,,,,
+1148,V-1149,,,,,,,,,,
+1149,V-1150,,,,,,,,,,
+1150,V-1151,,,,,,,,,,
+1151,V-1152,,,,,,,,,,
+1152,V-1153,,,,,,,,,,
+1153,V-1154,,,,,,,,,,
+1154,V-1155,,,,,,,,,,
+1155,V-1156,,,,,,,,,,
+1156,V-1157,,,,,,,,,,
+1157,V-1158,,,,,,,,,,
+1158,V-1159,,,,,,,,,,
+1159,V-1160,,,,,,,,,,
+1160,V-1161,,,,,,,,,,
+1161,V-1162,,,,,,,,,,
+1162,V-1163,,,,,,,,,,
+1163,V-1164,,,,,,,,,,
+1164,V-1165,,,,,,,,,,
+1165,V-1166,,,,,,,,,,
+1166,V-1167,,,,,,,,,,
+1167,V-1168,,,,,,,,,,
+1168,V-1169,,,,,,,,,,
+1169,V-1170,,,,,,,,,,
+1170,V-1171,,,,,,,,,,
+1171,V-1172,,,,,,,,,,
+1172,V-1173,,,,,,,,,,
+1173,V-1174,,,,,,,,,,
+1174,V-1175,,,,,,,,,,
+1175,V-1176,,,,,,,,,,
+1176,V-1177,,,,,,,,,,
+1177,V-1178,,,,,,,,,,
+1178,V-1179,,,,,,,,,,
+1179,V-1180,,,,,,,,,,
+1180,V-1181,,,,,,,,,,
+1181,V-1182,,,,,,,,,,
+1182,V-1183,,,,,,,,,,
+1183,V-1184,,,,,,,,,,
+1184,V-1185,,,,,,,,,,
+1185,V-1186,,,,,,,,,,
+1186,V-1187,,,,,,,,,,
+1187,V-1188,,,,,,,,,,
+1188,V-1189,,,,,,,,,,
+1189,V-1190,,,,,,,,,,
+1190,V-1191,,,,,,,,,,
+1191,V-1192,,,,,,,,,,
+1192,V-1193,,,,,,,,,,
+1193,V-1194,,,,,,,,,,
+1194,V-1195,,,,,,,,,,
+1195,V-1196,,,,,,,,,,
+1196,V-1197,,,,,,,,,,
+1197,V-1198,,,,,,,,,,
+1198,V-1199,,,,,,,,,,
+1199,V-1200,,,,,,,,,,
+1200,V-1201,,,,,,,,,,
+1201,V-1202,,,,,,,,,,
+1202,V-1203,,,,,,,,,,
+1203,V-1204,,,,,,,,,,
+1204,V-1205,,,,,,,,,,
+1205,V-1206,,,,,,,,,,
+1206,V-1207,,,,,,,,,,
+1207,V-1208,,,,,,,,,,
+1208,V-1209,,,,,,,,,,
+1209,V-1210,,,,,,,,,,
+1210,V-1211,,,,,,,,,,
+1211,V-1212,,,,,,,,,,
+1212,V-1213,,,,,,,,,,
+1213,V-1214,,,,,,,,,,
+1214,V-1215,,,,,,,,,,
+1215,V-1216,,,,,,,,,,
+1216,V-1217,,,,,,,,,,
+1217,V-1218,,,,,,,,,,
+1218,V-1219,,,,,,,,,,
+1219,V-1220,,,,,,,,,,
+1220,V-1221,,,,,,,,,,
+1221,V-1222,,,,,,,,,,
+1222,V-1223,,,,,,,,,,
+1223,V-1224,,,,,,,,,,
+1224,V-1225,,,,,,,,,,
+1225,V-1226,,,,,,,,,,
+1226,V-1227,,,,,,,,,,
+1227,V-1228,,,,,,,,,,
+1228,V-1229,,,,,,,,,,
+1229,V-1230,,,,,,,,,,
+1230,V-1231,,,,,,,,,,
+1231,V-1232,,,,,,,,,,
+1232,V-1233,,,,,,,,,,
+1233,V-1234,,,,,,,,,,
+1234,V-1235,,,,,,,,,,
+1235,V-1236,,,,,,,,,,
+1236,V-1237,,,,,,,,,,
+1237,V-1238,,,,,,,,,,
+1238,V-1239,,,,,,,,,,
+1239,V-1240,,,,,,,,,,
+1240,V-1241,,,,,,,,,,
+1241,V-1242,,,,,,,,,,
+1242,V-1243,,,,,,,,,,
+1243,V-1244,,,,,,,,,,
+1244,V-1245,,,,,,,,,,
+1245,V-1246,,,,,,,,,,
+1246,V-1247,,,,,,,,,,
+1247,V-1248,,,,,,,,,,
+1248,V-1249,,,,,,,,,,
+1249,V-1250,,,,,,,,,,
+1250,V-1251,,,,,,,,,,
+1251,V-1252,,,,,,,,,,
+1252,V-1253,,,,,,,,,,
+1253,V-1254,,,,,,,,,,
+1254,V-1255,,,,,,,,,,
+1255,V-1256,,,,,,,,,,
+1256,V-1257,,,,,,,,,,
+1257,V-1258,,,,,,,,,,
+1258,V-1259,,,,,,,,,,
+1259,V-1260,,,,,,,,,,
+1260,V-1261,,,,,,,,,,
+1261,V-1262,,,,,,,,,,
+1262,V-1263,,,,,,,,,,
+1263,V-1264,,,,,,,,,,
+1264,V-1265,,,,,,,,,,
+1265,V-1266,,,,,,,,,,
+1266,V-1267,,,,,,,,,,
+1267,V-1268,,,,,,,,,,
+1268,V-1269,,,,,,,,,,
+1269,V-1270,,,,,,,,,,
+1270,V-1271,,,,,,,,,,
+1271,V-1272,,,,,,,,,,
+1272,V-1273,,,,,,,,,,
+1273,V-1274,,,,,,,,,,
+1274,V-1275,,,,,,,,,,
+1275,V-1276,,,,,,,,,,
+1276,V-1277,,,,,,,,,,
+1277,V-1278,,,,,,,,,,
+1278,V-1279,,,,,,,,,,
+1279,V-1280,,,,,,,,,,
+1280,V-1281,,,,,,,,,,
+1281,V-1282,,,,,,,,,,
+1282,V-1283,,,,,,,,,,
+1283,V-1284,,,,,,,,,,
+1284,V-1285,,,,,,,,,,
+1285,V-1286,,,,,,,,,,
+1286,V-1287,,,,,,,,,,
+1287,V-1288,,,,,,,,,,
+1288,V-1289,,,,,,,,,,
+1289,V-1290,,,,,,,,,,
+1290,V-1291,,,,,,,,,,
+1291,V-1292,,,,,,,,,,
+1292,V-1293,,,,,,,,,,
+1293,V-1294,,,,,,,,,,
+1294,V-1295,,,,,,,,,,
+1295,V-1296,,,,,,,,,,
+1296,V-1297,,,,,,,,,,
+1297,V-1298,,,,,,,,,,
+1298,V-1299,,,,,,,,,,
+1299,V-1300,,,,,,,,,,
+1300,V-1301,,,,,,,,,,
+1301,V-1302,,,,,,,,,,
+1302,V-1303,,,,,,,,,,
+1303,V-1304,,,,,,,,,,
+1304,V-1305,,,,,,,,,,
+1305,V-1306,,,,,,,,,,
+1306,V-1307,,,,,,,,,,
+1307,V-1308,,,,,,,,,,
+1308,V-1309,,,,,,,,,,
+1309,V-1310,,,,,,,,,,
+1310,V-1311,,,,,,,,,,
+1311,V-1312,,,,,,,,,,
+1312,V-1313,,,,,,,,,,
+1313,V-1314,,,,,,,,,,
+1314,V-1315,,,,,,,,,,
+1315,V-1316,,,,,,,,,,
+1316,V-1317,,,,,,,,,,
+1317,V-1318,,,,,,,,,,
+1318,V-1319,,,,,,,,,,
+1319,V-1320,,,,,,,,,,
+1320,V-1321,,,,,,,,,,
+1321,V-1322,,,,,,,,,,
+1322,V-1323,,,,,,,,,,
+1323,V-1324,,,,,,,,,,
+1324,V-1325,,,,,,,,,,
+1325,V-1326,,,,,,,,,,
+1326,V-1327,,,,,,,,,,
+1327,V-1328,,,,,,,,,,
+1328,V-1329,,,,,,,,,,
+1329,V-1330,,,,,,,,,,
+1330,V-1331,,,,,,,,,,
+1331,V-1332,,,,,,,,,,
+1332,V-1333,,,,,,,,,,
+1333,V-1334,,,,,,,,,,
+1334,V-1335,,,,,,,,,,
+1335,V-1336,,,,,,,,,,
+1336,V-1337,,,,,,,,,,
+1337,V-1338,,,,,,,,,,
+1338,V-1339,,,,,,,,,,
+1339,V-1340,,,,,,,,,,
+1340,V-1341,,,,,,,,,,
+1341,V-1342,,,,,,,,,,
+1342,V-1343,,,,,,,,,,
+1343,V-1344,,,,,,,,,,
+1344,V-1345,,,,,,,,,,
+1345,V-1346,,,,,,,,,,
+1346,V-1347,,,,,,,,,,
+1347,V-1348,,,,,,,,,,
+1348,V-1349,,,,,,,,,,
+1349,V-1350,,,,,,,,,,
+1350,V-1351,,,,,,,,,,
+1351,V-1352,,,,,,,,,,
+1352,V-1353,,,,,,,,,,
+1353,V-1354,,,,,,,,,,
+1354,V-1355,,,,,,,,,,
+1355,V-1356,,,,,,,,,,
+1356,V-1357,,,,,,,,,,
+1357,V-1358,,,,,,,,,,
+1358,V-1359,,,,,,,,,,
+1359,V-1360,,,,,,,,,,
+1360,V-1361,,,,,,,,,,
+1361,V-1362,,,,,,,,,,
+1362,V-1363,,,,,,,,,,
+1363,V-1364,,,,,,,,,,
+1364,V-1365,,,,,,,,,,
+1365,V-1366,,,,,,,,,,
+1366,V-1367,,,,,,,,,,
+1367,V-1368,,,,,,,,,,
+1368,V-1369,,,,,,,,,,
+1369,V-1370,,,,,,,,,,
+1370,V-1371,,,,,,,,,,
+1371,V-1372,,,,,,,,,,
+1372,V-1373,,,,,,,,,,
+1373,V-1374,,,,,,,,,,
+1374,V-1375,,,,,,,,,,
+1375,V-1376,,,,,,,,,,
+1376,V-1377,,,,,,,,,,
+1377,V-1378,,,,,,,,,,
+1378,V-1379,,,,,,,,,,
+1379,V-1380,,,,,,,,,,
+1380,V-1381,,,,,,,,,,
+1381,V-1382,,,,,,,,,,
+1382,V-1383,,,,,,,,,,
+1383,V-1384,,,,,,,,,,
+1384,V-1385,,,,,,,,,,
+1385,V-1386,,,,,,,,,,
+1386,V-1387,,,,,,,,,,
+1387,V-1388,,,,,,,,,,
+1388,V-1389,,,,,,,,,,
+1389,V-1390,,,,,,,,,,
+1390,V-1391,,,,,,,,,,
+1391,V-1392,,,,,,,,,,
+1392,V-1393,,,,,,,,,,
+1393,V-1394,,,,,,,,,,
+1394,V-1395,,,,,,,,,,
+1395,V-1396,,,,,,,,,,
+1396,V-1397,,,,,,,,,,
+1397,V-1398,,,,,,,,,,
+1398,V-1399,,,,,,,,,,
+1399,V-1400,,,,,,,,,,
+1400,V-1401,,,,,,,,,,
+1401,V-1402,,,,,,,,,,
+1402,V-1403,,,,,,,,,,
+1403,V-1404,,,,,,,,,,
+1404,V-1405,,,,,,,,,,
+1405,V-1406,,,,,,,,,,
+1406,V-1407,,,,,,,,,,
+1407,V-1408,,,,,,,,,,
+1408,V-1409,,,,,,,,,,
+1409,V-1410,,,,,,,,,,
+1410,V-1411,,,,,,,,,,
+1411,V-1412,,,,,,,,,,
+1412,V-1413,,,,,,,,,,
+1413,V-1414,,,,,,,,,,
+1414,V-1415,,,,,,,,,,
+1415,V-1416,,,,,,,,,,
+1416,V-1417,,,,,,,,,,
+1417,V-1418,,,,,,,,,,
+1418,V-1419,,,,,,,,,,
+1419,V-1420,,,,,,,,,,
+1420,V-1421,,,,,,,,,,
+1421,V-1422,,,,,,,,,,
+1422,V-1423,,,,,,,,,,
+1423,V-1424,,,,,,,,,,
+1424,V-1425,,,,,,,,,,
+1425,V-1426,,,,,,,,,,
+1426,V-1427,,,,,,,,,,
+1427,V-1428,,,,,,,,,,
+1428,V-1429,,,,,,,,,,
+1429,V-1430,,,,,,,,,,
+1430,V-1431,,,,,,,,,,
+1431,V-1432,,,,,,,,,,
+1432,V-1433,,,,,,,,,,
+1433,V-1434,,,,,,,,,,
+1434,V-1435,,,,,,,,,,
+1435,V-1436,,,,,,,,,,
+1436,V-1437,,,,,,,,,,
+1437,V-1438,,,,,,,,,,
+1438,V-1439,,,,,,,,,,
+1439,V-1440,,,,,,,,,,
+1440,V-1441,,,,,,,,,,
+1441,V-1442,,,,,,,,,,
+1442,V-1443,,,,,,,,,,
+1443,V-1444,,,,,,,,,,
+1444,V-1445,,,,,,,,,,
+1445,V-1446,,,,,,,,,,
+1446,V-1447,,,,,,,,,,
+1447,V-1448,,,,,,,,,,
+1448,V-1449,,,,,,,,,,
+1449,V-1450,,,,,,,,,,
+1450,V-1451,,,,,,,,,,
+1451,V-1452,,,,,,,,,,
+1452,V-1453,,,,,,,,,,
+1453,V-1454,,,,,,,,,,
+1454,V-1455,,,,,,,,,,
+1455,V-1456,,,,,,,,,,
+1456,V-1457,,,,,,,,,,
+1457,V-1458,,,,,,,,,,
+1458,V-1459,,,,,,,,,,
+1459,V-1460,,,,,,,,,,
+1460,V-1461,,,,,,,,,,
+1461,V-1462,,,,,,,,,,
+1462,V-1463,,,,,,,,,,
+1463,V-1464,,,,,,,,,,
+1464,V-1465,,,,,,,,,,
+1465,V-1466,,,,,,,,,,
+1466,V-1467,,,,,,,,,,
+1467,V-1468,,,,,,,,,,
+1468,V-1469,,,,,,,,,,
+1469,V-1470,,,,,,,,,,
+1470,V-1471,,,,,,,,,,
+1471,V-1472,,,,,,,,,,
+1472,V-1473,,,,,,,,,,
+1473,V-1474,,,,,,,,,,
+1474,V-1475,,,,,,,,,,
+1475,V-1476,,,,,,,,,,
+1476,V-1477,,,,,,,,,,
+1477,V-1478,,,,,,,,,,
+1478,V-1479,,,,,,,,,,
+1479,V-1480,,,,,,,,,,
+1480,V-1481,,,,,,,,,,
+1481,V-1482,,,,,,,,,,
+1482,V-1483,,,,,,,,,,
+1483,V-1484,,,,,,,,,,
+1484,V-1485,,,,,,,,,,
+1485,V-1486,,,,,,,,,,
+1486,V-1487,,,,,,,,,,
+1487,V-1488,,,,,,,,,,
+1488,V-1489,,,,,,,,,,
+1489,V-1490,,,,,,,,,,
+1490,V-1491,,,,,,,,,,
+1491,V-1492,,,,,,,,,,
+1492,V-1493,,,,,,,,,,
+1493,V-1494,,,,,,,,,,
+1494,V-1495,,,,,,,,,,
+1495,V-1496,,,,,,,,,,
+1496,V-1497,,,,,,,,,,
+1497,V-1498,,,,,,,,,,
+1498,V-1499,,,,,,,,,,
+1499,V-1500,,,,,,,,,,
+1500,V-1501,,,,,,,,,,
+1501,V-1502,,,,,,,,,,
+1502,V-1503,,,,,,,,,,
+1503,V-1504,,,,,,,,,,
+1504,V-1505,,,,,,,,,,
+1505,V-1506,,,,,,,,,,
+1506,V-1507,,,,,,,,,,
+1507,V-1508,,,,,,,,,,
+1508,V-1509,,,,,,,,,,
+1509,V-1510,,,,,,,,,,
+1510,V-1511,,,,,,,,,,
+1511,V-1512,,,,,,,,,,
+1512,V-1513,,,,,,,,,,
+1513,V-1514,,,,,,,,,,
+1514,V-1515,,,,,,,,,,
+1515,V-1516,,,,,,,,,,
+1516,V-1517,,,,,,,,,,
+1517,V-1518,,,,,,,,,,
+1518,V-1519,,,,,,,,,,
+1519,V-1520,,,,,,,,,,
+1520,V-1521,,,,,,,,,,
+1521,V-1522,,,,,,,,,,
+1522,V-1523,,,,,,,,,,
+1523,V-1524,,,,,,,,,,
+1524,V-1525,,,,,,,,,,
+1525,V-1526,,,,,,,,,,
+1526,V-1527,,,,,,,,,,
+1527,V-1528,,,,,,,,,,
+1528,V-1529,,,,,,,,,,
+1529,V-1530,,,,,,,,,,
+1530,V-1531,,,,,,,,,,
+1531,V-1532,,,,,,,,,,
+1532,V-1533,,,,,,,,,,
+1533,V-1534,,,,,,,,,,
+1534,V-1535,,,,,,,,,,
+1535,V-1536,,,,,,,,,,
+1536,V-1537,,,,,,,,,,
+1537,V-1538,,,,,,,,,,
+1538,V-1539,,,,,,,,,,
+1539,V-1540,,,,,,,,,,
+1540,V-1541,,,,,,,,,,
+1541,V-1542,,,,,,,,,,
+1542,V-1543,,,,,,,,,,
+1543,V-1544,,,,,,,,,,
+1544,V-1545,,,,,,,,,,
+1545,V-1546,,,,,,,,,,
+1546,V-1547,,,,,,,,,,
+1547,V-1548,,,,,,,,,,
+1548,V-1549,,,,,,,,,,
+1549,V-1550,,,,,,,,,,
+1550,V-1551,,,,,,,,,,
+1551,V-1552,,,,,,,,,,
+1552,V-1553,,,,,,,,,,
+1553,V-1554,,,,,,,,,,
+1554,V-1555,,,,,,,,,,
+1555,V-1556,,,,,,,,,,
+1556,V-1557,,,,,,,,,,
+1557,V-1558,,,,,,,,,,
+1558,V-1559,,,,,,,,,,
+1559,V-1560,,,,,,,,,,
+1560,V-1561,,,,,,,,,,
+1561,V-1562,,,,,,,,,,
+1562,V-1563,,,,,,,,,,
+1563,V-1564,,,,,,,,,,
+1564,V-1565,,,,,,,,,,
+1565,V-1566,,,,,,,,,,
+1566,V-1567,,,,,,,,,,
+1567,V-1568,,,,,,,,,,
+1568,V-1569,,,,,,,,,,
+1569,V-1570,,,,,,,,,,
+1570,V-1571,,,,,,,,,,
+1571,V-1572,,,,,,,,,,
+1572,V-1573,,,,,,,,,,
+1573,V-1574,,,,,,,,,,
+1574,V-1575,,,,,,,,,,
+1575,V-1576,,,,,,,,,,
+1576,V-1577,,,,,,,,,,
+1577,V-1578,,,,,,,,,,
+1578,V-1579,,,,,,,,,,
+1579,V-1580,,,,,,,,,,
+1580,V-1581,,,,,,,,,,
+1581,V-1582,,,,,,,,,,
+1582,V-1583,,,,,,,,,,
+1583,V-1584,,,,,,,,,,
+1584,V-1585,,,,,,,,,,
+1585,V-1586,,,,,,,,,,
+1586,V-1587,,,,,,,,,,
+1587,V-1588,,,,,,,,,,
+1588,V-1589,,,,,,,,,,
+1589,V-1590,,,,,,,,,,
+1590,V-1591,,,,,,,,,,
+1591,V-1592,,,,,,,,,,
+1592,V-1593,,,,,,,,,,
+1593,V-1594,,,,,,,,,,
+1594,V-1595,,,,,,,,,,
+1595,V-1596,,,,,,,,,,
+1596,V-1597,,,,,,,,,,
+1597,V-1598,,,,,,,,,,
+1598,V-1599,,,,,,,,,,
+1599,V-1600,,,,,,,,,,
+1600,V-1601,,,,,,,,,,
+1601,V-1602,,,,,,,,,,
+1602,V-1603,,,,,,,,,,
+1603,V-1604,,,,,,,,,,
+1604,V-1605,,,,,,,,,,
+1605,V-1606,,,,,,,,,,
+1606,V-1607,,,,,,,,,,
+1607,V-1608,,,,,,,,,,
+1608,V-1609,,,,,,,,,,
+1609,V-1610,,,,,,,,,,
+1610,V-1611,,,,,,,,,,
+1611,V-1612,,,,,,,,,,
+1612,V-1613,,,,,,,,,,
+1613,V-1614,,,,,,,,,,
+1614,V-1615,,,,,,,,,,
+1615,V-1616,,,,,,,,,,
+1616,V-1617,,,,,,,,,,
+1617,V-1618,,,,,,,,,,
+1618,V-1619,,,,,,,,,,
+1619,V-1620,,,,,,,,,,
+1620,V-1621,,,,,,,,,,
+1621,V-1622,,,,,,,,,,
+1622,V-1623,,,,,,,,,,
+1623,V-1624,,,,,,,,,,
+1624,V-1625,,,,,,,,,,
+1625,V-1626,,,,,,,,,,
+1626,V-1627,,,,,,,,,,
+1627,V-1628,,,,,,,,,,
+1628,V-1629,,,,,,,,,,
+1629,V-1630,,,,,,,,,,
+1630,V-1631,,,,,,,,,,
+1631,V-1632,,,,,,,,,,
+1632,V-1633,,,,,,,,,,
+1633,V-1634,,,,,,,,,,
+1634,V-1635,,,,,,,,,,
+1635,V-1636,,,,,,,,,,
+1636,V-1637,,,,,,,,,,
+1637,V-1638,,,,,,,,,,
+1638,V-1639,,,,,,,,,,
+1639,V-1640,,,,,,,,,,
+1640,V-1641,,,,,,,,,,
+1641,V-1642,,,,,,,,,,
+1642,V-1643,,,,,,,,,,
+1643,V-1644,,,,,,,,,,
+1644,V-1645,,,,,,,,,,
+1645,V-1646,,,,,,,,,,
+1646,V-1647,,,,,,,,,,
+1647,V-1648,,,,,,,,,,
+1648,V-1649,,,,,,,,,,
+1649,V-1650,,,,,,,,,,
+1650,V-1651,,,,,,,,,,
+1651,V-1652,,,,,,,,,,
+1652,V-1653,,,,,,,,,,
+1653,V-1654,,,,,,,,,,
+1654,V-1655,,,,,,,,,,
+1655,V-1656,,,,,,,,,,
+1656,V-1657,,,,,,,,,,
+1657,V-1658,,,,,,,,,,
+1658,V-1659,,,,,,,,,,
+1659,V-1660,,,,,,,,,,
+1660,V-1661,,,,,,,,,,
+1661,V-1662,,,,,,,,,,
+1662,V-1663,,,,,,,,,,
+1663,V-1664,,,,,,,,,,
+1664,V-1665,,,,,,,,,,
+1665,V-1666,,,,,,,,,,
+1666,V-1667,,,,,,,,,,
+1667,V-1668,,,,,,,,,,
+1668,V-1669,,,,,,,,,,
+1669,V-1670,,,,,,,,,,
+1670,V-1671,,,,,,,,,,
+1671,V-1672,,,,,,,,,,
+1672,V-1673,,,,,,,,,,
+1673,V-1674,,,,,,,,,,
+1674,V-1675,,,,,,,,,,
+1675,V-1676,,,,,,,,,,
+1676,V-1677,,,,,,,,,,
+1677,V-1678,,,,,,,,,,
+1678,V-1679,,,,,,,,,,
+1679,V-1680,,,,,,,,,,
+1680,V-1681,,,,,,,,,,
+1681,V-1682,,,,,,,,,,
+1682,V-1683,,,,,,,,,,
+1683,V-1684,,,,,,,,,,
+1684,V-1685,,,,,,,,,,
+1685,V-1686,,,,,,,,,,
+1686,V-1687,,,,,,,,,,
+1687,V-1688,,,,,,,,,,
+1688,V-1689,,,,,,,,,,
+1689,V-1690,,,,,,,,,,
+1690,V-1691,,,,,,,,,,
+1691,V-1692,,,,,,,,,,
+1692,V-1693,,,,,,,,,,
+1693,V-1694,,,,,,,,,,
+1694,V-1695,,,,,,,,,,
+1695,V-1696,,,,,,,,,,
+1696,V-1697,,,,,,,,,,
+1697,V-1698,,,,,,,,,,
+1698,V-1699,,,,,,,,,,
+1699,V-1700,,,,,,,,,,
+1700,V-1701,,,,,,,,,,
+1701,V-1702,,,,,,,,,,
+1702,V-1703,,,,,,,,,,
+1703,V-1704,,,,,,,,,,
+1704,V-1705,,,,,,,,,,
+1705,V-1706,,,,,,,,,,
+1706,V-1707,,,,,,,,,,
+1707,V-1708,,,,,,,,,,
+1708,V-1709,,,,,,,,,,
+1709,V-1710,,,,,,,,,,
+1710,V-1711,,,,,,,,,,
+1711,V-1712,,,,,,,,,,
+1712,V-1713,,,,,,,,,,
+1713,V-1714,,,,,,,,,,
+1714,V-1715,,,,,,,,,,
+1715,V-1716,,,,,,,,,,
+1716,V-1717,,,,,,,,,,
+1717,V-1718,,,,,,,,,,
+1718,V-1719,,,,,,,,,,
+1719,V-1720,,,,,,,,,,
+1720,V-1721,,,,,,,,,,
+1721,V-1722,,,,,,,,,,
+1722,V-1723,,,,,,,,,,
+1723,V-1724,,,,,,,,,,
+1724,V-1725,,,,,,,,,,
+1725,V-1726,,,,,,,,,,
+1726,V-1727,,,,,,,,,,
+1727,V-1728,,,,,,,,,,
+1728,V-1729,,,,,,,,,,
+1729,V-1730,,,,,,,,,,
+1730,V-1731,,,,,,,,,,
+1731,V-1732,,,,,,,,,,
+1732,V-1733,,,,,,,,,,
+1733,V-1734,,,,,,,,,,
+1734,V-1735,,,,,,,,,,
+1735,V-1736,,,,,,,,,,
+1736,V-1737,,,,,,,,,,
+1737,V-1738,,,,,,,,,,
+1738,V-1739,,,,,,,,,,
+1739,V-1740,,,,,,,,,,
+1740,V-1741,,,,,,,,,,
+1741,V-1742,,,,,,,,,,
+1742,V-1743,,,,,,,,,,
+1743,V-1744,,,,,,,,,,
+1744,V-1745,,,,,,,,,,
+1745,V-1746,,,,,,,,,,
+1746,V-1747,,,,,,,,,,
+1747,V-1748,,,,,,,,,,
+1748,V-1749,,,,,,,,,,
+1749,V-1750,,,,,,,,,,
+1750,V-1751,,,,,,,,,,
+1751,V-1752,,,,,,,,,,
+1752,V-1753,,,,,,,,,,
+1753,V-1754,,,,,,,,,,
+1754,V-1755,,,,,,,,,,
+1755,V-1756,,,,,,,,,,
+1756,V-1757,,,,,,,,,,
+1757,V-1758,,,,,,,,,,
+1758,V-1759,,,,,,,,,,
+1759,V-1760,,,,,,,,,,
+1760,V-1761,,,,,,,,,,
+1761,V-1762,,,,,,,,,,
+1762,V-1763,,,,,,,,,,
+1763,V-1764,,,,,,,,,,
+1764,V-1765,,,,,,,,,,
+1765,V-1766,,,,,,,,,,
+1766,V-1767,,,,,,,,,,
+1767,V-1768,,,,,,,,,,
+1768,V-1769,,,,,,,,,,
+1769,V-1770,,,,,,,,,,
+1770,V-1771,,,,,,,,,,
+1771,V-1772,,,,,,,,,,
+1772,V-1773,,,,,,,,,,
+1773,V-1774,,,,,,,,,,
+1774,V-1775,,,,,,,,,,
+1775,V-1776,,,,,,,,,,
+1776,V-1777,,,,,,,,,,
+1777,V-1778,,,,,,,,,,
+1778,V-1779,,,,,,,,,,
+1779,V-1780,,,,,,,,,,
+1780,V-1781,,,,,,,,,,
+1781,V-1782,,,,,,,,,,
+1782,V-1783,,,,,,,,,,
+1783,V-1784,,,,,,,,,,
+1784,V-1785,,,,,,,,,,
+1785,V-1786,,,,,,,,,,
+1786,V-1787,,,,,,,,,,
+1787,V-1788,,,,,,,,,,
+1788,V-1789,,,,,,,,,,
+1789,V-1790,,,,,,,,,,
+1790,V-1791,,,,,,,,,,
+1791,V-1792,,,,,,,,,,
+1792,V-1793,,,,,,,,,,
+1793,V-1794,,,,,,,,,,
+1794,V-1795,,,,,,,,,,
+1795,V-1796,,,,,,,,,,
+1796,V-1797,,,,,,,,,,
+1797,V-1798,,,,,,,,,,
+1798,V-1799,,,,,,,,,,
+1799,V-1800,,,,,,,,,,
+1800,V-1801,,,,,,,,,,
+1801,V-1802,,,,,,,,,,
+1802,V-1803,,,,,,,,,,
+1803,V-1804,,,,,,,,,,
+1804,V-1805,,,,,,,,,,
+1805,V-1806,,,,,,,,,,
+1806,V-1807,,,,,,,,,,
+1807,V-1808,,,,,,,,,,
+1808,V-1809,,,,,,,,,,
+1809,V-1810,,,,,,,,,,
+1810,V-1811,,,,,,,,,,
+1811,V-1812,,,,,,,,,,
+1812,V-1813,,,,,,,,,,
+1813,V-1814,,,,,,,,,,
+1814,V-1815,,,,,,,,,,
+1815,V-1816,,,,,,,,,,
+1816,V-1817,,,,,,,,,,
+1817,V-1818,,,,,,,,,,
+1818,V-1819,,,,,,,,,,
+1819,V-1820,,,,,,,,,,
+1820,V-1821,,,,,,,,,,
+1821,V-1822,,,,,,,,,,
+1822,V-1823,,,,,,,,,,
+1823,V-1824,,,,,,,,,,
+1824,V-1825,,,,,,,,,,
+1825,V-1826,,,,,,,,,,
+1826,V-1827,,,,,,,,,,
+1827,V-1828,,,,,,,,,,
+1828,V-1829,,,,,,,,,,
+1829,V-1830,,,,,,,,,,
+1830,V-1831,,,,,,,,,,
+1831,V-1832,,,,,,,,,,
+1832,V-1833,,,,,,,,,,
+1833,V-1834,,,,,,,,,,
+1834,V-1835,,,,,,,,,,
+1835,V-1836,,,,,,,,,,
+1836,V-1837,,,,,,,,,,
+1837,V-1838,,,,,,,,,,
+1838,V-1839,,,,,,,,,,
+1839,V-1840,,,,,,,,,,
+1840,V-1841,,,,,,,,,,
+1841,V-1842,,,,,,,,,,
+1842,V-1843,,,,,,,,,,
+1843,V-1844,,,,,,,,,,
+1844,V-1845,,,,,,,,,,
+1845,V-1846,,,,,,,,,,
+1846,V-1847,,,,,,,,,,
+1847,V-1848,,,,,,,,,,
+1848,V-1849,,,,,,,,,,
+1849,V-1850,,,,,,,,,,
+1850,V-1851,,,,,,,,,,
+1851,V-1852,,,,,,,,,,
+1852,V-1853,,,,,,,,,,
+1853,V-1854,,,,,,,,,,
+1854,V-1855,,,,,,,,,,
+1855,V-1856,,,,,,,,,,
+1856,V-1857,,,,,,,,,,
+1857,V-1858,,,,,,,,,,
+1858,V-1859,,,,,,,,,,
+1859,V-1860,,,,,,,,,,
+1860,V-1861,,,,,,,,,,
+1861,V-1862,,,,,,,,,,
+1862,V-1863,,,,,,,,,,
+1863,V-1864,,,,,,,,,,
+1864,V-1865,,,,,,,,,,
+1865,V-1866,,,,,,,,,,
+1866,V-1867,,,,,,,,,,
+1867,V-1868,,,,,,,,,,
+1868,V-1869,,,,,,,,,,
+1869,V-1870,,,,,,,,,,
+1870,V-1871,,,,,,,,,,
+1871,V-1872,,,,,,,,,,
+1872,V-1873,,,,,,,,,,
+1873,V-1874,,,,,,,,,,
+1874,V-1875,,,,,,,,,,
+1875,V-1876,,,,,,,,,,
+1876,V-1877,,,,,,,,,,
+1877,V-1878,,,,,,,,,,
+1878,V-1879,,,,,,,,,,
+1879,V-1880,,,,,,,,,,
+1880,V-1881,,,,,,,,,,
+1881,V-1882,,,,,,,,,,
+1882,V-1883,,,,,,,,,,
+1883,V-1884,,,,,,,,,,
+1884,V-1885,,,,,,,,,,
+1885,V-1886,,,,,,,,,,
+1886,V-1887,,,,,,,,,,
+1887,V-1888,,,,,,,,,,
+1888,V-1889,,,,,,,,,,
+1889,V-1890,,,,,,,,,,
+1890,V-1891,,,,,,,,,,
+1891,V-1892,,,,,,,,,,
+1892,V-1893,,,,,,,,,,
+1893,V-1894,,,,,,,,,,
+1894,V-1895,,,,,,,,,,
+1895,V-1896,,,,,,,,,,
+1896,V-1897,,,,,,,,,,
+1897,V-1898,,,,,,,,,,
+1898,V-1899,,,,,,,,,,
+1899,V-1900,,,,,,,,,,
+1900,V-1901,,,,,,,,,,
+1901,V-1902,,,,,,,,,,
+1902,V-1903,,,,,,,,,,
+1903,V-1904,,,,,,,,,,
+1904,V-1905,,,,,,,,,,
+1905,V-1906,,,,,,,,,,
+1906,V-1907,,,,,,,,,,
+1907,V-1908,,,,,,,,,,
+1908,V-1909,,,,,,,,,,
+1909,V-1910,,,,,,,,,,
+1910,V-1911,,,,,,,,,,
+1911,V-1912,,,,,,,,,,
+1912,V-1913,,,,,,,,,,
+1913,V-1914,,,,,,,,,,
+1914,V-1915,,,,,,,,,,
+1915,V-1916,,,,,,,,,,
+1916,V-1917,,,,,,,,,,
+1917,V-1918,,,,,,,,,,
+1918,V-1919,,,,,,,,,,
+1919,V-1920,,,,,,,,,,
+1920,V-1921,,,,,,,,,,
+1921,V-1922,,,,,,,,,,
+1922,V-1923,,,,,,,,,,
+1923,V-1924,,,,,,,,,,
+1924,V-1925,,,,,,,,,,
+1925,V-1926,,,,,,,,,,
+1926,V-1927,,,,,,,,,,
+1927,V-1928,,,,,,,,,,
+1928,V-1929,,,,,,,,,,
+1929,V-1930,,,,,,,,,,
+1930,V-1931,,,,,,,,,,
+1931,V-1932,,,,,,,,,,
+1932,V-1933,,,,,,,,,,
+1933,V-1934,,,,,,,,,,
+1934,V-1935,,,,,,,,,,
+1935,V-1936,,,,,,,,,,
+1936,V-1937,,,,,,,,,,
+1937,V-1938,,,,,,,,,,
+1938,V-1939,,,,,,,,,,
+1939,V-1940,,,,,,,,,,
+1940,V-1941,,,,,,,,,,
+1941,V-1942,,,,,,,,,,
+1942,V-1943,,,,,,,,,,
+1943,V-1944,,,,,,,,,,
+1944,V-1945,,,,,,,,,,
+1945,V-1946,,,,,,,,,,
+1946,V-1947,,,,,,,,,,
+1947,V-1948,,,,,,,,,,
+1948,V-1949,,,,,,,,,,
+1949,V-1950,,,,,,,,,,
+1950,V-1951,,,,,,,,,,
+1951,V-1952,,,,,,,,,,
+1952,V-1953,,,,,,,,,,
+1953,V-1954,,,,,,,,,,
+1954,V-1955,,,,,,,,,,
+1955,V-1956,,,,,,,,,,
+1956,V-1957,,,,,,,,,,
+1957,V-1958,,,,,,,,,,
+1958,V-1959,,,,,,,,,,
+1959,V-1960,,,,,,,,,,
+1960,V-1961,,,,,,,,,,
+1961,V-1962,,,,,,,,,,
+1962,V-1963,,,,,,,,,,
+1963,V-1964,,,,,,,,,,
+1964,V-1965,,,,,,,,,,
+1965,V-1966,,,,,,,,,,
+1966,V-1967,,,,,,,,,,
+1967,V-1968,,,,,,,,,,
+1968,V-1969,,,,,,,,,,
+1969,V-1970,,,,,,,,,,
+1970,V-1971,,,,,,,,,,
+1971,V-1972,,,,,,,,,,
+1972,V-1973,,,,,,,,,,
+1973,V-1974,,,,,,,,,,
+1974,V-1975,,,,,,,,,,
+1975,V-1976,,,,,,,,,,
+1976,V-1977,,,,,,,,,,
+1977,V-1978,,,,,,,,,,
+1978,V-1979,,,,,,,,,,
+1979,V-1980,,,,,,,,,,
+1980,V-1981,,,,,,,,,,
+1981,V-1982,,,,,,,,,,
+1982,V-1983,,,,,,,,,,
+1983,V-1984,,,,,,,,,,
+1984,V-1985,,,,,,,,,,
+1985,V-1986,,,,,,,,,,
+1986,V-1987,,,,,,,,,,
+1987,V-1988,,,,,,,,,,
+1988,V-1989,,,,,,,,,,
+1989,V-1990,,,,,,,,,,
+1990,V-1991,,,,,,,,,,
+1991,V-1992,,,,,,,,,,
+1992,V-1993,,,,,,,,,,
+1993,V-1994,,,,,,,,,,
+1994,V-1995,,,,,,,,,,
+1995,V-1996,,,,,,,,,,
+1996,V-1997,,,,,,,,,,
+1997,V-1998,,,,,,,,,,
+1998,V-1999,,,,,,,,,,
